@@ -1,5 +1,11 @@
 #  Executive HR Attrition & Workforce Flight Risk Analytics
 
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL%2015+-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Analytics-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](#)
+
+[View Live Insights](#-executive-summary--core-findings) • [Architecture](#-architecture--technical-data-pipeline) • [Database Setup](#-8-local-replication--setup-guide)
+
 An end-to-end enterprise workforce analytics solution engineered to diagnose organizational attrition drivers, assess pay equity gaps, and model active flight risk across enterprise talent cohorts. Built using a decoupled architecture with a **PostgreSQL** relational database backend and an interactive **Microsoft Excel** Executive Dashboard.
 
 ---
@@ -18,7 +24,7 @@ An end-to-end enterprise workforce analytics solution engineered to diagnose org
 5. [Excel Data Engine & Dashboard Design](#-excel-data-engine--dashboard-design)
 6. [Repository Structure](#-repository-structure)
 7. [Strategic HR Recommendations](#-strategic-hr-recommendations)
-8. [Local Replication & Setup Guide](#-local-replication--setup-guide)
+
 
 ---
 
@@ -86,7 +92,7 @@ The backend architecture uses modular PostgreSQL scripts to transform raw HR dat
 * **Multi-Factor Flight Risk Engine (`v_flight_risk_analytics`):** Applies a weighted scoring algorithm (evaluating overtime demands, promotion stagnation $\ge 4$ years, low salary hikes $<12\%$, and low job satisfaction) to categorize active employees into **High**, **Medium**, and **Low** flight risk tiers.
 * **Pay Equity & Salary Variance Analytics (`v_pay_equity_analytics`):** Leverages PostgreSQL window functions (`AVG() OVER`) to benchmark individual monthly incomes against departmental and role averages, highlighting compensation compression points.
 
-## 📊 5. Excel Data Engine & Dashboard Design
+##  5. Excel Data Engine & Dashboard Design
 
 The presentation layer is organized into three distinct workbook functional zones:
 
