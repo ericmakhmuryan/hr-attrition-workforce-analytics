@@ -4,7 +4,7 @@
 [![Excel](https://img.shields.io/badge/Analytics-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](#)
 
-[View Live Insights](#-executive-summary--core-findings) • [Architecture](#-architecture--technical-data-pipeline) • [Database Setup](#-8-local-replication--setup-guide)
+
 
 An end-to-end enterprise workforce analytics solution engineered to diagnose organizational attrition drivers, assess pay equity gaps, and model active flight risk across enterprise talent cohorts. Built using a decoupled architecture with a **PostgreSQL** relational database backend and an interactive **Microsoft Excel** Executive Dashboard.
 
