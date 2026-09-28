@@ -1,0 +1,1234 @@
+"employee_number","age","department","job_role","job_level","monthly_income","over_time","job_satisfaction","distance_from_home","percent_salary_hike","years_since_last_promotion","work_life_balance","risk_score","risk_category"
+2,49,Research & Development,Research Scientist,2,5130,No,2,8,23,1,3,2,Low Flight Risk
+5,33,Research & Development,Research Scientist,1,2909,Yes,3,3,11,3,3,3,Medium Flight Risk
+7,27,Research & Development,Laboratory Technician,1,3468,No,2,2,12,2,3,2,Low Flight Risk
+8,32,Research & Development,Laboratory Technician,1,3068,No,4,2,13,3,2,0,Low Flight Risk
+10,59,Research & Development,Laboratory Technician,1,2670,Yes,1,3,20,0,2,4,Medium Flight Risk
+11,30,Research & Development,Laboratory Technician,1,2693,No,3,24,22,0,3,0,Low Flight Risk
+12,38,Research & Development,Manufacturing Director,3,9526,No,3,23,21,1,3,0,Low Flight Risk
+13,36,Research & Development,Healthcare Representative,2,5237,No,3,27,13,7,2,2,Low Flight Risk
+14,35,Research & Development,Laboratory Technician,1,2426,No,2,16,13,0,3,2,Low Flight Risk
+15,29,Research & Development,Laboratory Technician,2,4193,Yes,3,15,12,0,3,2,Low Flight Risk
+16,31,Research & Development,Research Scientist,1,2911,No,3,26,17,4,2,2,Low Flight Risk
+18,34,Research & Development,Laboratory Technician,1,2661,No,4,19,11,1,3,1,Low Flight Risk
+20,29,Research & Development,Manufacturing Director,3,9980,No,1,21,11,8,3,5,Medium Flight Risk
+21,32,Research & Development,Research Scientist,1,3298,Yes,2,5,12,0,2,4,Medium Flight Risk
+22,22,Research & Development,Laboratory Technician,1,2935,Yes,4,16,13,0,2,2,Low Flight Risk
+23,53,Sales,Manager,4,15427,No,4,2,16,3,3,0,Low Flight Risk
+24,38,Research & Development,Research Scientist,1,3944,Yes,4,2,11,1,3,3,Medium Flight Risk
+26,24,Research & Development,Manufacturing Director,2,4011,No,3,11,18,1,2,0,Low Flight Risk
+28,34,Research & Development,Research Director,3,11994,No,2,7,11,2,3,3,Medium Flight Risk
+30,21,Research & Development,Research Scientist,1,1232,No,4,15,14,0,3,0,Low Flight Risk
+32,53,Research & Development,Manager,5,19094,No,3,5,11,4,2,3,Medium Flight Risk
+35,42,Sales,Sales Executive,2,6825,No,2,8,11,4,3,5,Medium Flight Risk
+36,44,Research & Development,Healthcare Representative,3,10248,No,4,7,14,5,3,2,Low Flight Risk
+38,46,Sales,Manager,5,18947,No,1,2,12,2,2,2,Low Flight Risk
+39,33,Research & Development,Laboratory Technician,1,2496,No,4,2,11,0,3,1,Low Flight Risk
+40,44,Research & Development,Healthcare Representative,2,6465,Yes,4,10,13,1,4,2,Low Flight Risk
+41,30,Research & Development,Laboratory Technician,1,2206,No,3,9,13,1,3,0,Low Flight Risk
+46,43,Research & Development,Research Scientist,1,2645,No,3,2,12,1,2,0,Low Flight Risk
+49,35,Sales,Sales Representative,1,2014,No,4,2,13,2,3,0,Low Flight Risk
+51,36,Research & Development,Research Scientist,1,3419,Yes,1,5,14,0,4,4,Medium Flight Risk
+52,33,Sales,Sales Executive,2,5376,No,1,1,19,1,3,2,Low Flight Risk
+53,35,Research & Development,Laboratory Technician,1,1951,No,4,4,12,0,3,0,Low Flight Risk
+54,27,Research & Development,Laboratory Technician,1,2341,No,1,2,13,0,3,2,Low Flight Risk
+56,27,Sales,Sales Executive,3,8726,No,3,8,15,1,3,0,Low Flight Risk
+57,30,Research & Development,Laboratory Technician,2,4011,No,4,1,23,3,3,0,Low Flight Risk
+60,34,Sales,Sales Executive,2,4568,No,3,23,20,8,3,2,Low Flight Risk
+61,37,Research & Development,Research Scientist,1,3022,No,2,19,21,0,3,2,Low Flight Risk
+62,46,Sales,Sales Executive,2,5772,Yes,4,5,21,0,3,2,Low Flight Risk
+63,35,Research & Development,Laboratory Technician,1,2269,No,4,8,19,0,3,0,Low Flight Risk
+68,44,Sales,Sales Executive,2,5454,Yes,1,1,21,1,2,4,Medium Flight Risk
+70,35,Research & Development,Healthcare Representative,3,9884,Yes,1,11,13,2,3,4,Medium Flight Risk
+72,26,Sales,Sales Executive,2,4157,Yes,4,23,19,0,2,2,Low Flight Risk
+73,33,Research & Development,Research Director,3,13458,Yes,4,1,12,8,3,4,Medium Flight Risk
+74,35,Sales,Sales Executive,3,9069,No,1,18,22,1,2,2,Low Flight Risk
+75,35,Research & Development,Laboratory Technician,1,4014,Yes,1,23,15,2,3,4,Medium Flight Risk
+76,31,Research & Development,Laboratory Technician,2,5915,No,4,7,22,1,2,0,Low Flight Risk
+77,37,Research & Development,Manufacturing Director,2,5993,No,3,1,18,0,4,0,Low Flight Risk
+78,32,Research & Development,Manufacturing Director,2,6162,Yes,4,1,22,7,3,4,Medium Flight Risk
+79,38,Research & Development,Laboratory Technician,2,2406,No,4,29,11,9,3,3,Medium Flight Risk
+80,50,Research & Development,Research Director,5,18740,Yes,3,7,12,13,2,4,Medium Flight Risk
+81,59,Sales,Sales Executive,3,7637,No,1,25,11,7,2,5,Medium Flight Risk
+83,36,Research & Development,Healthcare Representative,3,10096,No,3,8,13,12,3,2,Low Flight Risk
+84,55,Research & Development,Manager,4,14756,Yes,3,8,14,0,3,2,Low Flight Risk
+85,36,Research & Development,Manufacturing Director,2,6499,No,2,11,13,0,3,2,Low Flight Risk
+86,45,Research & Development,Research Scientist,3,9724,No,1,7,17,0,3,2,Low Flight Risk
+138,34,Research & Development,Research Scientist,2,4809,No,3,6,14,2,3,0,Low Flight Risk
+88,35,Research & Development,Research Scientist,1,2194,No,1,1,13,1,2,2,Low Flight Risk
+91,59,Sales,Sales Executive,2,5473,No,3,1,11,1,2,1,Low Flight Risk
+94,29,Research & Development,Research Scientist,1,2703,No,2,2,23,0,3,2,Low Flight Risk
+95,31,Research & Development,Research Scientist,1,2501,No,2,1,17,1,3,2,Low Flight Risk
+96,32,Research & Development,Research Scientist,2,6220,No,2,1,17,0,3,2,Low Flight Risk
+97,36,Research & Development,Laboratory Technician,1,3038,No,4,6,12,0,3,0,Low Flight Risk
+98,31,Research & Development,Manufacturing Director,2,4424,No,4,8,23,1,3,0,Low Flight Risk
+100,35,Sales,Sales Executive,2,4312,No,1,1,14,2,3,2,Low Flight Risk
+101,45,Research & Development,Research Director,3,13245,Yes,1,6,14,0,4,4,Medium Flight Risk
+102,37,Research & Development,Research Director,3,13664,No,3,7,13,0,4,0,Low Flight Risk
+103,46,Human Resources,Human Resources,2,5021,Yes,2,5,22,0,3,4,Medium Flight Risk
+104,30,Research & Development,Laboratory Technician,2,5126,Yes,4,1,12,3,2,2,Low Flight Risk
+105,35,Research & Development,Research Scientist,1,2859,No,3,1,18,0,3,0,Low Flight Risk
+106,55,Sales,Sales Executive,3,10239,No,4,1,14,1,3,0,Low Flight Risk
+107,38,Research & Development,Research Scientist,2,5329,Yes,4,6,12,1,3,2,Low Flight Risk
+110,34,Research & Development,Manufacturing Director,2,4325,No,2,1,15,1,3,2,Low Flight Risk
+112,56,Research & Development,Manufacturing Director,3,7260,No,4,7,11,0,2,1,Low Flight Risk
+113,23,Sales,Sales Representative,1,2322,No,1,2,13,0,3,2,Low Flight Risk
+116,51,Research & Development,Laboratory Technician,1,2075,No,4,9,23,0,3,0,Low Flight Risk
+117,30,Research & Development,Healthcare Representative,2,4152,No,4,2,19,10,3,2,Low Flight Risk
+119,40,Research & Development,Healthcare Representative,4,13503,No,2,1,22,11,2,4,Medium Flight Risk
+120,51,Sales,Sales Executive,2,5441,Yes,4,21,22,1,1,4,Medium Flight Risk
+121,30,Sales,Sales Executive,2,5209,Yes,2,4,12,2,2,4,Medium Flight Risk
+124,46,Research & Development,Healthcare Representative,3,10673,Yes,1,1,13,9,2,6,High Flight Risk
+125,32,Sales,Sales Executive,2,5010,No,3,6,16,5,3,2,Low Flight Risk
+126,54,Research & Development,Research Director,3,13549,No,3,2,12,0,1,2,Low Flight Risk
+128,24,Sales,Sales Executive,2,4999,No,3,3,21,0,2,0,Low Flight Risk
+129,28,Sales,Sales Executive,2,4221,No,3,4,15,0,4,0,Low Flight Risk
+131,58,Sales,Sales Executive,4,13872,No,3,10,13,1,2,0,Low Flight Risk
+132,44,Research & Development,Laboratory Technician,2,2042,No,2,23,12,1,4,2,Low Flight Risk
+134,32,Research & Development,Research Scientist,1,2956,No,1,1,13,0,3,2,Low Flight Risk
+139,37,Research & Development,Healthcare Representative,2,5163,No,4,2,14,0,4,0,Low Flight Risk
+140,59,Human Resources,Manager,5,18844,No,4,2,21,2,3,0,Low Flight Risk
+141,50,Research & Development,Research Director,5,18172,Yes,2,1,19,0,2,4,Medium Flight Risk
+143,25,Research & Development,Research Scientist,1,2889,No,4,7,11,2,3,1,Low Flight Risk
+144,22,Research & Development,Laboratory Technician,1,2871,No,4,15,15,0,3,0,Low Flight Risk
+145,51,Research & Development,Healthcare Representative,3,7484,No,1,1,20,12,2,4,Medium Flight Risk
+148,54,Human Resources,Manager,4,17328,Yes,4,26,12,4,3,4,Medium Flight Risk
+150,24,Research & Development,Laboratory Technician,1,2774,No,3,18,12,1,3,0,Low Flight Risk
+151,34,Research & Development,Research Scientist,2,4505,No,2,6,15,0,3,2,Low Flight Risk
+152,37,Sales,Sales Executive,3,7428,No,4,3,12,1,3,0,Low Flight Risk
+153,34,Research & Development,Manager,3,11631,No,1,5,12,5,3,4,Medium Flight Risk
+154,36,Sales,Sales Executive,3,9738,No,4,11,14,2,3,0,Low Flight Risk
+155,36,Research & Development,Laboratory Technician,1,2835,No,4,3,22,0,3,0,Low Flight Risk
+158,43,Sales,Manager,4,16959,Yes,4,26,12,4,4,4,Medium Flight Risk
+159,30,Research & Development,Research Scientist,1,2613,No,3,23,25,0,2,0,Low Flight Risk
+160,33,Sales,Sales Executive,2,6146,No,2,22,13,0,4,2,Low Flight Risk
+162,51,Research & Development,Research Director,5,19537,No,3,6,13,15,3,2,Low Flight Risk
+164,26,Research & Development,Research Scientist,1,2368,No,2,6,19,4,2,4,Medium Flight Risk
+169,22,Research & Development,Laboratory Technician,1,2523,No,4,2,14,2,3,0,Low Flight Risk
+170,49,Research & Development,Manufacturing Director,2,6567,No,1,20,14,5,2,4,Medium Flight Risk
+171,43,Research & Development,Research Scientist,1,4739,No,3,28,12,1,3,0,Low Flight Risk
+174,50,Sales,Sales Executive,3,9208,No,4,12,11,2,3,1,Low Flight Risk
+176,41,Sales,Sales Executive,3,8189,Yes,3,9,13,0,3,2,Low Flight Risk
+177,26,Human Resources,Human Resources,1,2942,No,3,25,23,5,3,2,Low Flight Risk
+178,36,Research & Development,Manufacturing Director,2,4941,No,2,6,20,0,3,2,Low Flight Risk
+182,39,Sales,Sales Executive,2,5902,No,3,4,14,5,4,2,Low Flight Risk
+183,25,Sales,Sales Executive,2,8639,No,3,28,18,2,3,0,Low Flight Risk
+184,30,Human Resources,Human Resources,2,6347,Yes,4,9,19,4,1,6,High Flight Risk
+192,45,Research & Development,Research Scientist,1,3452,No,4,29,13,0,2,0,Low Flight Risk
+193,38,Research & Development,Research Scientist,2,4317,Yes,3,3,20,2,3,2,Low Flight Risk
+194,30,Research & Development,Research Scientist,1,2632,No,3,18,14,0,2,0,Low Flight Risk
+195,32,Sales,Sales Executive,2,4668,No,4,9,17,0,4,0,Low Flight Risk
+197,30,Research & Development,Research Scientist,1,3204,No,1,5,14,2,3,2,Low Flight Risk
+198,30,Research & Development,Laboratory Technician,1,2720,No,4,2,13,1,3,0,Low Flight Risk
+199,41,Research & Development,Manager,4,17181,No,1,10,13,7,2,4,Medium Flight Risk
+200,41,Research & Development,Laboratory Technician,1,2238,No,1,9,21,1,3,2,Low Flight Risk
+201,19,Research & Development,Laboratory Technician,1,1483,No,2,3,14,0,3,2,Low Flight Risk
+202,40,Research & Development,Research Scientist,2,5605,No,2,26,11,2,3,3,Medium Flight Risk
+204,35,Sales,Sales Executive,3,7295,No,2,1,13,0,3,2,Low Flight Risk
+205,53,Sales,Sales Representative,2,2306,Yes,3,6,20,4,1,6,High Flight Risk
+206,45,Research & Development,Laboratory Technician,2,2348,No,2,9,18,0,1,4,Medium Flight Risk
+207,32,Sales,Sales Executive,3,8998,No,4,8,14,3,3,0,Low Flight Risk
+208,29,Research & Development,Manufacturing Director,2,4319,No,3,1,13,0,3,0,Low Flight Risk
+211,51,Research & Development,Manufacturing Director,2,6132,No,3,7,17,0,3,0,Low Flight Risk
+214,58,Research & Development,Research Scientist,1,3346,Yes,2,9,20,0,2,4,Medium Flight Risk
+215,40,Sales,Sales Executive,3,10855,No,4,4,11,2,2,1,Low Flight Risk
+216,34,Sales,Sales Representative,1,2231,No,3,2,18,1,3,0,Low Flight Risk
+217,22,Research & Development,Research Scientist,1,2323,No,4,19,24,2,3,0,Low Flight Risk
+218,27,Research & Development,Research Scientist,1,2024,No,2,9,18,2,1,4,Medium Flight Risk
+221,28,Research & Development,Research Scientist,1,2713,No,4,21,11,0,1,3,Medium Flight Risk
+223,57,Research & Development,Healthcare Representative,3,9439,Yes,4,24,16,1,1,4,Medium Flight Risk
+224,27,Research & Development,Research Scientist,1,2566,Yes,3,3,15,0,2,2,Low Flight Risk
+226,50,Research & Development,Manager,5,19926,No,2,11,15,4,3,4,Medium Flight Risk
+227,41,Research & Development,Research Scientist,1,2451,No,3,14,12,1,3,0,Low Flight Risk
+228,30,Sales,Sales Executive,3,9419,No,4,5,12,7,3,2,Low Flight Risk
+230,38,Sales,Sales Executive,2,8686,No,4,1,22,0,4,0,Low Flight Risk
+231,32,Research & Development,Research Scientist,1,3038,No,3,6,20,1,3,0,Low Flight Risk
+233,27,Research & Development,Research Scientist,1,3058,Yes,2,17,16,1,2,4,Medium Flight Risk
+238,36,Research & Development,Laboratory Technician,1,2088,No,2,3,12,7,2,4,Medium Flight Risk
+239,30,Research & Development,Laboratory Technician,2,3072,No,1,9,11,6,3,5,Medium Flight Risk
+240,45,Sales,Sales Executive,2,5006,Yes,1,4,11,0,4,5,Medium Flight Risk
+241,56,Research & Development,Research Scientist,1,4257,Yes,1,8,18,2,3,4,Medium Flight Risk
+242,33,Research & Development,Research Scientist,1,2500,No,4,2,14,0,4,0,Low Flight Risk
+244,46,Sales,Sales Executive,3,10453,No,1,1,25,15,3,4,Medium Flight Risk
+245,38,Research & Development,Laboratory Technician,1,2288,No,4,9,12,2,3,0,Low Flight Risk
+246,31,Research & Development,Research Scientist,1,3929,Yes,4,12,23,0,3,2,Low Flight Risk
+247,34,Research & Development,Research Scientist,1,2311,No,2,27,15,1,3,2,Low Flight Risk
+249,50,Research & Development,Laboratory Technician,1,3690,No,3,1,15,0,2,0,Low Flight Risk
+250,53,Research & Development,Manufacturing Director,2,4450,No,1,13,11,1,3,3,Medium Flight Risk
+252,33,Research & Development,Research Scientist,1,2756,No,2,14,13,1,3,2,Low Flight Risk
+253,40,Research & Development,Manager,5,19033,No,3,4,14,9,3,2,Low Flight Risk
+254,55,Research & Development,Research Director,5,18722,No,2,14,11,2,3,3,Medium Flight Risk
+256,34,Research & Development,Manufacturing Director,2,9547,No,3,2,17,1,2,0,Low Flight Risk
+258,51,Research & Development,Healthcare Representative,4,13734,No,2,3,18,1,3,2,Low Flight Risk
+259,52,Research & Development,Manager,5,19999,No,3,1,14,11,3,2,Low Flight Risk
+260,27,Research & Development,Research Scientist,1,2279,No,2,9,16,0,2,2,Low Flight Risk
+262,43,Research & Development,Research Scientist,1,2089,No,4,7,14,2,4,0,Low Flight Risk
+264,45,Research & Development,Manager,4,16792,No,4,2,23,11,3,2,Low Flight Risk
+267,37,Research & Development,Research Scientist,1,3564,Yes,1,21,12,1,2,4,Medium Flight Risk
+269,35,Research & Development,Laboratory Technician,2,4425,No,2,2,11,1,3,3,Medium Flight Risk
+270,42,Research & Development,Manufacturing Director,2,5265,No,3,21,16,0,3,0,Low Flight Risk
+271,38,Research & Development,Manufacturing Director,2,6553,No,3,2,14,0,3,0,Low Flight Risk
+273,38,Research & Development,Manufacturing Director,2,6261,No,4,29,18,1,1,2,Low Flight Risk
+274,27,Research & Development,Manufacturing Director,2,4298,No,1,1,19,2,3,2,Low Flight Risk
+275,49,Research & Development,Manufacturing Director,2,6804,Yes,4,18,15,1,3,2,Low Flight Risk
+277,34,Research & Development,Research Scientist,1,3815,Yes,3,10,17,2,4,2,Low Flight Risk
+281,40,Research & Development,Laboratory Technician,2,2741,Yes,4,19,15,3,4,2,Low Flight Risk
+284,22,Research & Development,Research Scientist,1,2328,Yes,2,5,16,2,2,4,Medium Flight Risk
+286,36,Research & Development,Laboratory Technician,1,2153,No,4,18,13,1,3,0,Low Flight Risk
+287,40,Research & Development,Healthcare Representative,2,4876,No,4,9,14,0,1,2,Low Flight Risk
+288,46,Research & Development,Healthcare Representative,3,9396,No,1,1,16,0,3,2,Low Flight Risk
+292,30,Research & Development,Manufacturing Director,3,8474,No,3,1,22,5,3,2,Low Flight Risk
+293,27,Sales,Sales Executive,2,9981,No,3,20,14,0,3,0,Low Flight Risk
+296,51,Research & Development,Research Director,3,12490,No,2,8,16,4,1,6,High Flight Risk
+298,41,Sales,Manager,3,13591,Yes,4,6,18,0,3,2,Low Flight Risk
+302,45,Sales,Sales Executive,3,8865,No,4,6,12,12,3,2,Low Flight Risk
+303,54,Sales,Sales Executive,2,5940,No,1,3,14,0,3,2,Low Flight Risk
+304,36,Research & Development,Laboratory Technician,2,5914,No,2,5,16,3,4,2,Low Flight Risk
+305,33,Research & Development,Research Scientist,1,2622,No,2,4,21,1,3,2,Low Flight Risk
+306,37,Research & Development,Research Director,3,12185,Yes,4,11,14,0,3,2,Low Flight Risk
+307,38,Sales,Sales Executive,3,10609,No,3,3,12,5,2,2,Low Flight Risk
+308,31,Research & Development,Manufacturing Director,2,4345,No,3,1,12,1,3,0,Low Flight Risk
+309,59,Research & Development,Research Scientist,1,2177,No,4,3,17,0,3,0,Low Flight Risk
+311,37,Sales,Sales Representative,1,2793,No,4,4,17,5,3,2,Low Flight Risk
+312,29,Sales,Sales Executive,3,7918,No,4,1,14,4,3,2,Low Flight Risk
+314,35,Sales,Sales Executive,3,8789,No,3,1,14,0,4,0,Low Flight Risk
+316,52,Research & Development,Laboratory Technician,1,3212,No,4,2,15,2,2,0,Low Flight Risk
+319,42,Research & Development,Manager,5,19232,No,4,4,11,11,3,3,Medium Flight Risk
+321,59,Human Resources,Human Resources,1,2267,No,3,6,17,2,2,0,Low Flight Risk
+323,50,Sales,Manager,5,19517,No,4,1,11,0,2,1,Low Flight Risk
+327,43,Sales,Manager,4,16064,Yes,4,16,22,1,3,2,Low Flight Risk
+329,52,Sales,Manager,5,19068,Yes,3,2,18,15,4,4,Medium Flight Risk
+330,32,Sales,Sales Representative,1,3931,No,2,4,11,1,3,3,Medium Flight Risk
+332,39,Research & Development,Laboratory Technician,1,2232,No,3,1,14,1,3,0,Low Flight Risk
+333,32,Sales,Sales Executive,2,4465,No,4,26,18,2,3,0,Low Flight Risk
+334,41,Research & Development,Research Scientist,2,3072,No,1,19,16,0,2,2,Low Flight Risk
+335,40,Research & Development,Research Scientist,2,3319,No,4,24,17,4,3,2,Low Flight Risk
+336,45,Research & Development,Manager,5,19202,No,4,1,11,1,3,1,Low Flight Risk
+337,31,Research & Development,Research Director,3,13675,No,3,3,12,2,3,0,Low Flight Risk
+338,33,Research & Development,Research Scientist,1,2911,No,4,5,13,0,2,0,Low Flight Risk
+339,34,Research & Development,Manufacturing Director,2,5957,No,1,2,13,5,3,4,Medium Flight Risk
+340,37,Research & Development,Research Scientist,1,3920,No,1,1,14,0,2,2,Low Flight Risk
+341,45,Research & Development,Manufacturing Director,2,6434,No,3,7,17,0,3,0,Low Flight Risk
+343,39,Research & Development,Healthcare Representative,3,10938,No,3,2,25,11,3,2,Low Flight Risk
+346,29,Research & Development,Research Scientist,1,2340,No,4,15,19,1,3,0,Low Flight Risk
+347,42,Research & Development,Research Scientist,2,6545,Yes,1,17,13,0,3,4,Medium Flight Risk
+349,29,Sales,Sales Executive,2,6931,No,4,20,14,0,3,0,Low Flight Risk
+350,25,Research & Development,Manufacturing Director,2,4898,No,3,1,12,1,3,0,Low Flight Risk
+351,42,Research & Development,Laboratory Technician,1,2593,Yes,1,2,11,7,3,7,High Flight Risk
+352,40,Research & Development,Research Director,5,19436,No,3,2,19,3,3,0,Low Flight Risk
+353,51,Research & Development,Research Scientist,1,2723,No,4,1,11,0,2,1,Low Flight Risk
+359,32,Research & Development,Laboratory Technician,1,2794,No,2,7,20,0,1,4,Medium Flight Risk
+361,38,Sales,Sales Executive,2,5249,No,4,2,18,7,3,2,Low Flight Risk
+362,32,Research & Development,Laboratory Technician,2,2176,No,1,2,13,0,3,2,Low Flight Risk
+363,46,Sales,Manager,4,16872,Yes,2,2,12,7,2,6,High Flight Risk
+366,29,Sales,Sales Executive,2,6644,No,2,2,19,0,3,2,Low Flight Risk
+367,31,Research & Development,Healthcare Representative,2,5582,No,4,23,21,7,3,2,Low Flight Risk
+369,25,Research & Development,Healthcare Representative,2,4000,No,1,5,12,1,3,2,Low Flight Risk
+372,45,Research & Development,Healthcare Representative,4,13496,Yes,4,20,14,4,3,4,Medium Flight Risk
+373,36,Research & Development,Laboratory Technician,1,3210,No,4,6,11,10,3,3,Medium Flight Risk
+374,55,Research & Development,Manager,5,19045,Yes,1,1,14,4,3,6,High Flight Risk
+377,28,Research & Development,Research Scientist,1,2070,No,4,9,23,0,2,0,Low Flight Risk
+378,37,Sales,Sales Executive,2,6502,No,4,6,14,0,4,0,Low Flight Risk
+379,21,Research & Development,Research Scientist,1,3230,No,3,3,17,1,4,0,Low Flight Risk
+380,37,Research & Development,Research Director,3,13603,Yes,4,1,18,0,3,2,Low Flight Risk
+381,35,Research & Development,Manager,3,11996,No,2,22,18,6,2,4,Medium Flight Risk
+382,38,Sales,Sales Executive,2,5605,Yes,1,7,24,7,3,6,High Flight Risk
+384,26,Research & Development,Manufacturing Director,2,6397,No,2,1,20,1,1,4,Medium Flight Risk
+385,50,Research & Development,Research Director,5,19144,No,2,4,14,1,2,2,Low Flight Risk
+386,53,Research & Development,Research Director,4,17584,Yes,3,3,16,1,2,2,Low Flight Risk
+387,42,Sales,Sales Executive,2,4907,No,3,1,25,11,3,2,Low Flight Risk
+388,29,Sales,Sales Executive,2,4554,No,4,2,18,0,2,0,Low Flight Risk
+389,55,Research & Development,Laboratory Technician,2,5415,Yes,4,20,19,0,3,2,Low Flight Risk
+390,26,Research & Development,Healthcare Representative,2,4741,Yes,1,11,13,3,3,4,Medium Flight Risk
+391,37,Research & Development,Research Scientist,1,2115,No,4,1,12,5,3,2,Low Flight Risk
+393,38,Research & Development,Healthcare Representative,2,5745,No,4,23,14,1,3,0,Low Flight Risk
+395,28,Research & Development,Research Scientist,1,3310,No,4,8,21,0,3,0,Low Flight Risk
+396,49,Research & Development,Research Director,5,18665,Yes,1,10,11,1,3,5,Medium Flight Risk
+397,36,Research & Development,Research Scientist,2,4485,No,2,3,12,7,3,4,Medium Flight Risk
+399,31,Sales,Sales Representative,1,2789,No,2,5,11,2,2,3,Medium Flight Risk
+403,37,Research & Development,Research Scientist,1,2326,Yes,4,9,12,1,2,2,Low Flight Risk
+404,42,Sales,Sales Executive,4,13525,No,2,26,14,4,4,4,Medium Flight Risk
+406,35,Sales,Sales Executive,3,8020,No,2,16,15,6,2,4,Medium Flight Risk
+407,36,Research & Development,Laboratory Technician,1,3688,No,4,18,18,0,3,0,Low Flight Risk
+408,51,Research & Development,Manufacturing Director,2,5482,No,2,2,18,1,3,2,Low Flight Risk
+410,41,Sales,Manager,4,16015,No,2,2,19,0,3,2,Low Flight Risk
+411,18,Sales,Sales Representative,1,1200,No,3,10,12,0,3,0,Low Flight Risk
+412,28,Research & Development,Healthcare Representative,2,5661,No,1,16,19,0,3,2,Low Flight Risk
+416,31,Sales,Sales Executive,2,6929,No,4,7,11,7,2,3,Medium Flight Risk
+417,39,Research & Development,Healthcare Representative,3,9613,No,4,1,17,3,2,0,Low Flight Risk
+419,36,Research & Development,Laboratory Technician,2,5674,No,2,24,15,0,3,2,Low Flight Risk
+420,32,Sales,Sales Executive,2,5484,No,3,7,14,4,2,2,Low Flight Risk
+421,38,Research & Development,Research Director,3,12061,No,2,25,17,0,3,2,Low Flight Risk
+422,58,Research & Development,Healthcare Representative,2,5660,Yes,3,1,13,1,3,2,Low Flight Risk
+423,31,Research & Development,Research Scientist,1,4821,Yes,4,5,12,0,3,2,Low Flight Risk
+424,31,Human Resources,Human Resources,2,6410,No,1,2,12,1,3,2,Low Flight Risk
+425,45,Research & Development,Laboratory Technician,3,5210,No,1,7,18,9,3,4,Medium Flight Risk
+426,31,Research & Development,Research Scientist,1,2695,Yes,4,2,18,2,1,4,Medium Flight Risk
+428,33,Research & Development,Manager,3,11878,No,2,5,11,8,3,5,Medium Flight Risk
+429,39,Research & Development,Manager,4,17068,Yes,1,10,14,11,3,6,High Flight Risk
+430,43,Research & Development,Laboratory Technician,1,2455,No,4,10,19,1,3,0,Low Flight Risk
+431,49,Research & Development,Healthcare Representative,4,13964,Yes,3,1,12,0,3,2,Low Flight Risk
+434,27,Research & Development,Research Scientist,1,2478,Yes,2,5,12,1,2,4,Medium Flight Risk
+436,32,Sales,Sales Executive,2,5228,Yes,2,8,11,11,3,7,High Flight Risk
+437,27,Sales,Sales Executive,2,4478,Yes,3,2,11,0,3,3,Medium Flight Risk
+438,31,Sales,Sales Executive,2,7547,No,4,7,12,1,3,0,Low Flight Risk
+439,32,Research & Development,Research Scientist,2,5055,No,4,2,16,0,2,0,Low Flight Risk
+441,30,Research & Development,Research Scientist,2,5775,No,4,28,13,1,3,0,Low Flight Risk
+442,31,Research & Development,Manufacturing Director,3,8943,No,3,7,24,8,3,2,Low Flight Risk
+444,39,Research & Development,Manager,5,19272,No,4,7,15,13,3,2,Low Flight Risk
+446,33,Sales,Sales Executive,2,4682,No,4,10,14,0,2,0,Low Flight Risk
+447,47,Research & Development,Research Director,5,18300,No,3,5,11,1,3,1,Low Flight Risk
+448,43,Research & Development,Laboratory Technician,2,5257,No,3,10,11,0,4,1,Low Flight Risk
+449,27,Sales,Sales Executive,2,6349,Yes,2,1,13,1,3,4,Medium Flight Risk
+450,54,Research & Development,Research Scientist,2,4869,No,3,20,12,0,2,0,Low Flight Risk
+451,43,Research & Development,Healthcare Representative,3,9985,No,1,7,16,0,2,2,Low Flight Risk
+452,45,Research & Development,Research Scientist,2,3697,No,4,8,14,9,3,2,Low Flight Risk
+453,40,Sales,Sales Executive,2,7457,Yes,4,1,22,0,2,2,Low Flight Risk
+455,29,Research & Development,Laboratory Technician,1,3983,No,4,9,17,2,3,0,Low Flight Risk
+456,30,Sales,Sales Executive,2,6118,No,3,5,13,1,3,0,Low Flight Risk
+458,27,Sales,Sales Executive,2,6214,No,2,8,18,0,3,2,Low Flight Risk
+460,37,Research & Development,Manufacturing Director,2,6347,No,4,5,16,0,2,0,Low Flight Risk
+461,38,Research & Development,Research Director,3,11510,Yes,4,15,14,2,3,2,Low Flight Risk
+462,31,Research & Development,Manufacturing Director,3,7143,Yes,4,7,14,4,2,4,Medium Flight Risk
+463,29,Sales,Sales Executive,2,8268,Yes,2,10,14,1,3,4,Medium Flight Risk
+464,35,Research & Development,Manufacturing Director,3,8095,No,2,5,13,0,3,2,Low Flight Risk
+465,23,Research & Development,Research Scientist,1,2904,No,4,26,12,0,2,0,Low Flight Risk
+466,41,Research & Development,Manufacturing Director,2,6032,Yes,2,6,15,1,3,4,Medium Flight Risk
+467,47,Sales,Sales Representative,2,2976,No,3,4,19,0,3,0,Low Flight Risk
+468,42,Research & Development,Research Director,4,15992,No,4,23,14,0,3,0,Low Flight Risk
+469,29,Sales,Sales Executive,2,4649,No,3,2,14,0,2,0,Low Flight Risk
+470,42,Human Resources,Human Resources,1,2696,Yes,3,2,11,1,3,3,Medium Flight Risk
+471,32,Research & Development,Laboratory Technician,1,2370,No,2,2,13,0,3,2,Low Flight Risk
+473,48,Sales,Manager,3,12504,No,3,29,21,0,1,2,Low Flight Risk
+474,37,Research & Development,Research Scientist,2,5974,Yes,1,6,13,6,3,6,High Flight Risk
+475,30,Sales,Sales Executive,2,4736,Yes,3,25,12,2,4,2,Low Flight Risk
+476,26,Sales,Sales Executive,2,5296,No,3,1,17,7,3,2,Low Flight Risk
+477,42,Research & Development,Healthcare Representative,2,6781,No,4,2,23,0,3,0,Low Flight Risk
+479,36,Sales,Sales Executive,2,6653,No,4,1,15,0,3,0,Low Flight Risk
+481,36,Sales,Sales Executive,3,9699,No,4,3,11,1,3,1,Low Flight Risk
+482,57,Research & Development,Healthcare Representative,2,6755,No,3,1,11,1,3,1,Low Flight Risk
+483,40,Research & Development,Laboratory Technician,1,2213,Yes,3,10,13,1,3,2,Low Flight Risk
+484,21,Sales,Sales Representative,1,2610,No,4,9,24,2,2,0,Low Flight Risk
+486,37,Research & Development,Laboratory Technician,1,3452,No,1,10,20,0,3,2,Low Flight Risk
+487,46,Research & Development,Manufacturing Director,2,5258,No,3,7,14,0,4,0,Low Flight Risk
+491,50,Research & Development,Healthcare Representative,3,10496,No,4,10,15,1,3,0,Low Flight Risk
+493,31,Research & Development,Research Scientist,1,2657,Yes,2,9,16,2,3,4,Medium Flight Risk
+495,29,Research & Development,Research Scientist,1,2201,No,4,23,16,1,3,0,Low Flight Risk
+496,35,Research & Development,Healthcare Representative,2,6540,No,2,9,19,0,3,2,Low Flight Risk
+497,27,Research & Development,Laboratory Technician,1,3816,No,2,1,11,0,3,3,Medium Flight Risk
+498,28,Sales,Sales Executive,2,5253,No,4,9,16,0,3,0,Low Flight Risk
+499,49,Research & Development,Healthcare Representative,3,10965,No,3,7,24,0,3,0,Low Flight Risk
+500,51,Sales,Sales Executive,2,4936,No,4,14,11,0,2,1,Low Flight Risk
+501,36,Research & Development,Research Scientist,1,2543,No,3,2,13,2,3,0,Low Flight Risk
+505,55,Research & Development,Manager,4,16659,Yes,4,2,13,1,3,2,Low Flight Risk
+507,24,Sales,Sales Executive,2,4260,Yes,3,10,12,0,4,2,Low Flight Risk
+508,30,Sales,Sales Representative,1,2476,No,2,2,18,0,3,2,Low Flight Risk
+511,22,Research & Development,Research Scientist,1,2244,No,2,11,13,1,3,2,Low Flight Risk
+513,36,Sales,Sales Executive,3,7596,No,3,2,13,9,3,2,Low Flight Risk
+515,37,Research & Development,Laboratory Technician,1,3034,No,1,14,12,12,2,4,Medium Flight Risk
+516,40,Sales,Sales Executive,2,5715,No,2,2,12,1,3,2,Low Flight Risk
+517,42,Research & Development,Laboratory Technician,1,2576,No,1,1,16,1,3,2,Low Flight Risk
+518,37,Research & Development,Manufacturing Director,2,4197,Yes,2,10,12,0,2,4,Medium Flight Risk
+520,43,Research & Development,Research Director,4,14336,No,2,12,11,3,3,3,Medium Flight Risk
+521,40,Research & Development,Laboratory Technician,2,3448,No,3,2,22,0,3,0,Low Flight Risk
+522,54,Research & Development,Research Director,5,19406,No,1,5,11,1,2,3,Medium Flight Risk
+523,34,Sales,Sales Executive,2,6538,No,3,4,15,1,3,0,Low Flight Risk
+524,31,Research & Development,Manufacturing Director,2,4306,No,1,7,12,3,1,4,Medium Flight Risk
+525,43,Research & Development,Laboratory Technician,1,2258,No,4,21,20,1,3,0,Low Flight Risk
+526,43,Research & Development,Healthcare Representative,2,4522,Yes,3,8,14,0,3,2,Low Flight Risk
+527,25,Sales,Sales Executive,2,4487,Yes,4,4,11,1,3,3,Medium Flight Risk
+529,37,Research & Development,Research Scientist,2,4449,Yes,3,25,15,10,3,4,Medium Flight Risk
+530,31,Research & Development,Laboratory Technician,1,2218,No,1,1,12,3,3,2,Low Flight Risk
+531,39,Research & Development,Manager,5,19197,Yes,3,1,14,1,3,2,Low Flight Risk
+532,56,Sales,Sales Executive,4,13212,No,1,6,11,7,2,5,Medium Flight Risk
+533,30,Sales,Sales Executive,2,6577,No,3,12,11,4,3,3,Medium Flight Risk
+534,41,Sales,Sales Executive,3,8392,No,1,1,16,0,3,2,Low Flight Risk
+536,28,Research & Development,Laboratory Technician,2,4558,No,1,17,12,1,3,2,Low Flight Risk
+543,52,Research & Development,Manufacturing Director,3,7969,Yes,3,3,14,0,3,2,Low Flight Risk
+544,45,Research & Development,Research Scientist,1,2654,No,4,10,21,0,2,0,Low Flight Risk
+546,52,Research & Development,Manager,4,16555,No,4,4,13,1,1,2,Low Flight Risk
+547,42,Research & Development,Research Scientist,2,4556,No,3,29,11,0,3,1,Low Flight Risk
+548,30,Research & Development,Manufacturing Director,2,6091,No,4,2,20,0,3,0,Low Flight Risk
+549,60,Research & Development,Manager,5,19566,No,1,7,11,11,1,7,High Flight Risk
+550,46,Research & Development,Manufacturing Director,2,4810,No,3,18,14,0,2,0,Low Flight Risk
+551,42,Research & Development,Healthcare Representative,2,4523,No,4,28,11,0,4,1,Low Flight Risk
+656,37,Sales,Sales Executive,2,9602,Yes,3,2,11,1,2,3,Medium Flight Risk
+556,38,Research & Development,Laboratory Technician,1,1702,Yes,4,2,23,0,3,2,Low Flight Risk
+558,40,Sales,Manager,5,18041,No,3,2,14,1,3,0,Low Flight Risk
+560,26,Research & Development,Research Scientist,1,2886,No,4,23,22,0,1,2,Low Flight Risk
+562,30,Research & Development,Laboratory Technician,1,2097,No,4,3,15,1,1,2,Low Flight Risk
+564,29,Research & Development,Research Director,3,11935,No,3,3,18,0,3,0,Low Flight Risk
+567,30,Sales,Sales Executive,3,8412,No,1,22,11,7,3,5,Medium Flight Risk
+568,57,Sales,Manager,4,14118,No,4,29,12,0,2,0,Low Flight Risk
+569,50,Research & Development,Manager,4,17046,No,3,29,15,15,3,2,Low Flight Risk
+571,30,Research & Development,Laboratory Technician,1,2564,No,4,2,14,6,2,2,Low Flight Risk
+573,60,Sales,Sales Executive,3,10266,No,1,28,19,13,4,4,Medium Flight Risk
+574,47,Research & Development,Manufacturing Director,2,5070,No,4,2,13,0,3,0,Low Flight Risk
+575,46,Research & Development,Research Director,4,17861,No,3,2,13,0,1,2,Low Flight Risk
+577,35,Research & Development,Laboratory Technician,1,4230,No,3,22,15,4,3,2,Low Flight Risk
+578,54,Research & Development,Laboratory Technician,2,3780,No,3,8,11,0,3,1,Low Flight Risk
+579,34,Research & Development,Research Scientist,1,2768,No,3,2,12,5,3,2,Low Flight Risk
+580,46,Sales,Sales Executive,3,9071,Yes,4,10,19,1,3,2,Low Flight Risk
+581,31,Research & Development,Manufacturing Director,3,10648,No,2,9,25,0,4,2,Low Flight Risk
+585,30,Sales,Sales Representative,1,2983,No,2,7,14,1,3,2,Low Flight Risk
+586,35,Research & Development,Healthcare Representative,3,7632,Yes,3,16,12,0,3,2,Low Flight Risk
+591,42,Research & Development,Laboratory Technician,1,2093,No,3,5,17,2,3,0,Low Flight Risk
+592,36,Sales,Sales Executive,3,9980,No,4,10,14,9,2,2,Low Flight Risk
+595,48,Sales,Sales Executive,2,4051,No,4,2,14,6,3,2,Low Flight Risk
+597,55,Sales,Manager,4,16835,No,2,18,23,7,3,4,Medium Flight Risk
+599,41,Sales,Sales Executive,2,6230,No,4,10,14,1,3,0,Low Flight Risk
+600,35,Sales,Sales Executive,2,4717,No,3,1,11,6,3,3,Medium Flight Risk
+601,40,Research & Development,Manufacturing Director,4,13237,No,3,6,15,5,3,2,Low Flight Risk
+602,39,Research & Development,Laboratory Technician,1,3755,No,3,8,11,0,3,1,Low Flight Risk
+604,31,Sales,Sales Executive,2,6582,Yes,4,2,13,0,4,2,Low Flight Risk
+605,42,Research & Development,Manufacturing Director,3,7406,Yes,1,24,21,5,2,6,High Flight Risk
+606,45,Sales,Sales Executive,2,4805,No,2,2,19,3,4,2,Low Flight Risk
+611,29,Research & Development,Manufacturing Director,2,4262,No,4,19,12,1,4,0,Low Flight Risk
+612,33,Research & Development,Research Director,4,16184,No,3,1,19,0,3,0,Low Flight Risk
+613,31,Sales,Manager,3,11557,No,4,7,21,0,2,0,Low Flight Risk
+615,40,Sales,Sales Executive,3,10932,No,1,28,15,0,3,2,Low Flight Risk
+616,41,Research & Development,Healthcare Representative,2,6811,Yes,3,2,17,0,3,2,Low Flight Risk
+618,26,Sales,Sales Executive,2,4306,No,3,29,12,0,3,0,Low Flight Risk
+620,35,Sales,Sales Executive,2,4859,No,3,1,16,0,3,0,Low Flight Risk
+621,34,Sales,Sales Executive,2,5337,No,4,21,12,5,3,2,Low Flight Risk
+623,37,Research & Development,Manufacturing Director,3,7491,No,4,1,17,1,4,0,Low Flight Risk
+624,46,Research & Development,Healthcare Representative,3,10527,No,3,18,11,1,2,1,Low Flight Risk
+625,41,Sales,Manager,4,16595,No,1,2,16,11,3,4,Medium Flight Risk
+626,37,Sales,Sales Executive,3,8834,No,2,9,13,7,3,4,Medium Flight Risk
+630,52,Research & Development,Research Scientist,2,5577,Yes,1,6,12,6,3,6,High Flight Risk
+632,24,Sales,Sales Representative,1,2400,No,4,24,13,2,3,0,Low Flight Risk
+634,38,Research & Development,Healthcare Representative,2,9824,No,3,10,19,0,3,0,Low Flight Risk
+635,37,Research & Development,Manufacturing Director,2,6447,No,2,1,12,4,2,4,Medium Flight Risk
+638,49,Research & Development,Research Director,5,19502,Yes,3,18,17,0,3,2,Low Flight Risk
+639,24,Research & Development,Research Scientist,1,2725,Yes,4,23,11,1,3,3,Medium Flight Risk
+641,26,Sales,Sales Executive,2,6272,No,2,28,20,1,4,2,Low Flight Risk
+643,24,Research & Development,Laboratory Technician,1,2127,No,2,17,21,0,3,2,Low Flight Risk
+644,50,Human Resources,Manager,5,18200,No,2,3,11,10,3,5,Medium Flight Risk
+645,25,Sales,Sales Representative,1,2096,No,3,13,11,0,3,1,Low Flight Risk
+649,34,Research & Development,Research Scientist,1,3622,Yes,4,1,13,1,3,2,Low Flight Risk
+652,35,Research & Development,Laboratory Technician,2,3681,No,4,25,14,0,3,0,Low Flight Risk
+653,31,Sales,Sales Executive,2,5460,No,4,6,22,5,4,2,Low Flight Risk
+655,27,Research & Development,Research Scientist,1,2187,No,3,6,12,0,2,0,Low Flight Risk
+657,20,Research & Development,Research Scientist,1,2836,No,2,1,13,0,4,2,Low Flight Risk
+659,42,Research & Development,Healthcare Representative,2,4089,No,4,2,13,2,3,0,Low Flight Risk
+661,43,Research & Development,Research Director,4,16627,Yes,4,6,14,0,2,2,Low Flight Risk
+662,38,Research & Development,Research Scientist,1,2619,No,1,1,17,0,2,2,Low Flight Risk
+663,43,Research & Development,Laboratory Technician,2,5679,Yes,3,9,13,4,3,4,Medium Flight Risk
+664,48,Research & Development,Manager,4,15402,No,1,1,11,0,1,5,Medium Flight Risk
+665,44,Human Resources,Human Resources,2,5985,No,3,1,11,0,4,1,Low Flight Risk
+666,34,Sales,Sales Representative,1,2579,Yes,3,14,18,0,3,2,Low Flight Risk
+669,21,Sales,Sales Representative,1,3447,No,3,22,11,1,3,1,Low Flight Risk
+671,44,Research & Development,Manager,5,19513,Yes,4,3,12,0,4,2,Low Flight Risk
+675,22,Research & Development,Research Scientist,1,2773,No,3,6,20,2,3,0,Low Flight Risk
+677,33,Sales,Sales Executive,2,7104,No,3,8,12,1,3,0,Low Flight Risk
+679,32,Research & Development,Research Scientist,2,6322,Yes,4,9,12,0,2,2,Low Flight Risk
+680,30,Research & Development,Research Scientist,1,2083,No,3,3,20,0,3,0,Low Flight Risk
+682,53,Sales,Sales Executive,2,8381,No,1,1,20,8,4,4,Medium Flight Risk
+683,34,Research & Development,Research Scientist,1,2691,No,4,1,12,8,2,2,Low Flight Risk
+686,26,Research & Development,Laboratory Technician,1,2659,Yes,4,6,13,0,3,2,Low Flight Risk
+689,37,Research & Development,Manufacturing Director,3,9434,No,3,3,15,7,3,2,Low Flight Risk
+690,29,Sales,Sales Executive,2,5561,No,3,3,14,1,2,0,Low Flight Risk
+691,35,Research & Development,Research Scientist,2,6646,No,4,6,13,11,3,2,Low Flight Risk
+692,33,Research & Development,Healthcare Representative,2,7725,No,4,6,23,4,1,4,Medium Flight Risk
+698,54,Human Resources,Human Resources,3,10725,No,2,19,15,7,4,4,Medium Flight Risk
+699,36,Research & Development,Manufacturing Director,2,8847,Yes,2,9,11,0,3,5,Medium Flight Risk
+700,27,Research & Development,Research Scientist,1,2045,No,4,3,13,1,3,0,Low Flight Risk
+704,35,Research & Development,Laboratory Technician,1,1281,No,3,3,18,0,3,0,Low Flight Risk
+705,23,Research & Development,Research Scientist,1,2819,No,1,4,16,0,4,2,Low Flight Risk
+707,25,Sales,Sales Executive,2,4851,No,2,8,22,1,3,2,Low Flight Risk
+709,38,Sales,Sales Executive,2,4028,No,4,7,20,0,3,0,Low Flight Risk
+710,29,Research & Development,Research Scientist,1,2720,No,4,1,18,2,3,0,Low Flight Risk
+712,48,Sales,Sales Executive,2,8120,No,2,2,12,2,3,2,Low Flight Risk
+714,27,Sales,Sales Executive,2,4647,Yes,4,3,20,0,3,2,Low Flight Risk
+715,37,Research & Development,Research Scientist,1,4680,No,4,10,17,0,3,0,Low Flight Risk
+716,50,Research & Development,Laboratory Technician,1,3221,Yes,3,28,11,3,3,3,Medium Flight Risk
+717,34,Research & Development,Healthcare Representative,3,8621,No,2,9,14,7,4,4,Medium Flight Risk
+721,39,Research & Development,Healthcare Representative,2,4553,No,3,2,11,11,3,3,Medium Flight Risk
+722,32,Sales,Sales Executive,2,5396,No,4,10,12,0,2,0,Low Flight Risk
+724,38,Research & Development,Healthcare Representative,2,7625,No,4,1,13,1,2,0,Low Flight Risk
+725,27,Research & Development,Manufacturing Director,3,7412,No,1,1,11,0,3,3,Medium Flight Risk
+727,32,Research & Development,Research Director,3,11159,No,4,3,15,7,3,2,Low Flight Risk
+728,47,Sales,Sales Executive,2,4960,No,1,14,12,1,3,2,Low Flight Risk
+729,40,Sales,Sales Executive,3,10475,Yes,1,5,21,1,3,4,Medium Flight Risk
+730,53,Research & Development,Research Director,4,14814,No,3,7,19,1,3,0,Low Flight Risk
+731,41,Human Resources,Manager,5,19141,No,4,10,15,12,2,2,Low Flight Risk
+732,60,Sales,Sales Executive,2,5405,No,1,16,14,2,3,2,Low Flight Risk
+733,27,Research & Development,Manufacturing Director,3,8793,No,1,10,21,1,2,2,Low Flight Risk
+734,41,Human Resources,Manager,5,19189,No,3,1,12,2,3,0,Low Flight Risk
+738,50,Sales,Sales Representative,1,3875,No,2,8,15,2,3,2,Low Flight Risk
+742,36,Research & Development,Research Director,3,11713,No,1,8,14,0,3,2,Low Flight Risk
+743,38,Research & Development,Manufacturing Director,3,7861,Yes,3,1,14,0,4,2,Low Flight Risk
+744,44,Research & Development,Laboratory Technician,1,3708,No,3,24,14,1,3,0,Low Flight Risk
+746,47,Sales,Sales Executive,4,13770,Yes,3,3,12,11,2,4,Medium Flight Risk
+747,30,Sales,Sales Executive,2,5304,No,4,27,23,7,2,2,Low Flight Risk
+749,29,Sales,Sales Representative,1,2642,No,3,10,11,0,3,1,Low Flight Risk
+754,43,Sales,Sales Executive,2,6804,No,4,15,18,2,3,0,Low Flight Risk
+757,34,Research & Development,Healthcare Representative,2,6142,No,3,8,11,4,3,3,Medium Flight Risk
+758,23,Research & Development,Laboratory Technician,1,2500,No,1,9,14,0,4,2,Low Flight Risk
+760,39,Human Resources,Human Resources,2,6389,No,2,3,15,3,1,4,Medium Flight Risk
+762,56,Research & Development,Healthcare Representative,4,11103,No,4,9,11,1,2,1,Low Flight Risk
+763,40,Research & Development,Research Scientist,1,2342,Yes,4,2,20,2,2,2,Low Flight Risk
+764,27,Research & Development,Healthcare Representative,2,6811,No,1,7,19,0,1,4,Medium Flight Risk
+766,29,Sales,Sales Representative,1,2297,No,2,10,14,2,3,2,Low Flight Risk
+769,53,Research & Development,Laboratory Technician,2,2450,No,4,6,17,2,3,0,Low Flight Risk
+771,35,Research & Development,Healthcare Representative,2,5093,No,1,2,11,0,4,3,Medium Flight Risk
+772,32,Research & Development,Laboratory Technician,2,5309,No,4,24,15,4,3,2,Low Flight Risk
+773,38,Research & Development,Research Scientist,1,3057,Yes,3,2,13,0,1,4,Medium Flight Risk
+775,34,Research & Development,Manufacturing Director,2,5121,No,1,8,14,0,3,2,Low Flight Risk
+776,52,Sales,Manager,4,16856,No,1,3,11,1,4,3,Medium Flight Risk
+781,25,Sales,Sales Executive,2,6180,No,4,26,23,1,2,0,Low Flight Risk
+783,45,Sales,Sales Representative,2,6632,No,3,2,13,3,3,0,Low Flight Risk
+784,23,Research & Development,Research Scientist,1,3505,No,3,10,18,0,3,0,Low Flight Risk
+786,34,Sales,Sales Executive,2,6274,No,4,2,22,1,3,0,Low Flight Risk
+789,36,Sales,Sales Executive,3,7587,No,1,8,15,0,3,2,Low Flight Risk
+791,52,Research & Development,Research Scientist,1,4258,No,4,19,18,1,3,0,Low Flight Risk
+792,26,Research & Development,Laboratory Technician,1,4364,No,4,1,14,2,3,0,Low Flight Risk
+793,29,Research & Development,Healthcare Representative,2,4335,No,3,27,12,1,2,0,Low Flight Risk
+797,34,Research & Development,Research Scientist,1,3280,No,4,1,16,1,3,0,Low Flight Risk
+799,54,Research & Development,Manufacturing Director,2,5485,Yes,1,19,11,1,3,5,Medium Flight Risk
+800,27,Sales,Sales Executive,2,4342,No,4,8,19,1,3,0,Low Flight Risk
+802,37,Research & Development,Research Scientist,1,2782,Yes,1,10,13,4,2,6,High Flight Risk
+803,38,Research & Development,Manufacturing Director,2,5980,Yes,1,2,12,4,3,6,High Flight Risk
+804,34,Research & Development,Research Scientist,1,4381,No,1,2,11,1,3,3,Medium Flight Risk
+805,35,Sales,Sales Representative,1,2572,No,4,8,16,0,2,0,Low Flight Risk
+806,30,Research & Development,Laboratory Technician,1,3833,No,3,1,21,0,3,0,Low Flight Risk
+807,40,Research & Development,Healthcare Representative,2,4244,No,2,2,24,3,3,2,Low Flight Risk
+808,34,Sales,Sales Executive,2,6500,No,1,8,17,1,3,2,Low Flight Risk
+809,42,Research & Development,Manager,5,18430,No,4,8,13,14,2,2,Low Flight Risk
+812,24,Research & Development,Laboratory Technician,1,2694,No,2,9,11,0,3,3,Medium Flight Risk
+813,52,Research & Development,Laboratory Technician,2,3149,No,3,11,20,1,3,0,Low Flight Risk
+815,50,Research & Development,Research Director,4,17639,No,3,2,16,0,3,0,Low Flight Risk
+817,33,Research & Development,Research Director,3,11691,No,3,7,11,3,4,1,Low Flight Risk
+820,47,Research & Development,Manager,4,16752,Yes,4,2,11,3,2,3,Medium Flight Risk
+823,36,Research & Development,Manufacturing Director,2,5228,No,2,1,15,0,3,2,Low Flight Risk
+824,29,Research & Development,Research Scientist,1,2700,No,3,23,24,0,3,0,Low Flight Risk
+826,35,Research & Development,Research Scientist,1,2506,No,3,1,13,2,3,0,Low Flight Risk
+827,42,Research & Development,Manufacturing Director,2,6062,Yes,4,1,13,0,3,2,Low Flight Risk
+829,36,Human Resources,Human Resources,1,2143,No,2,13,13,0,3,2,Low Flight Risk
+830,32,Research & Development,Manufacturing Director,2,6162,No,3,4,12,6,3,2,Low Flight Risk
+832,40,Research & Development,Laboratory Technician,2,5094,No,3,16,14,0,3,0,Low Flight Risk
+833,30,Research & Development,Manufacturing Director,2,6877,Yes,4,2,24,0,2,2,Low Flight Risk
+834,45,Research & Development,Research Scientist,1,2274,No,3,2,14,0,3,0,Low Flight Risk
+836,42,Research & Development,Manufacturing Director,2,4434,No,2,29,13,7,2,4,Medium Flight Risk
+837,38,Research & Development,Healthcare Representative,2,6288,No,1,12,15,1,2,2,Low Flight Risk
+838,34,Research & Development,Research Scientist,1,2553,No,4,16,16,1,3,0,Low Flight Risk
+843,43,Research & Development,Research Director,4,17159,No,1,14,24,1,3,2,Low Flight Risk
+844,27,Research & Development,Research Director,3,12808,Yes,4,5,16,0,3,2,Low Flight Risk
+845,35,Research & Development,Manufacturing Director,3,10221,No,3,7,21,1,4,0,Low Flight Risk
+846,28,Sales,Sales Executive,2,4779,Yes,2,2,20,7,3,6,High Flight Risk
+847,34,Human Resources,Human Resources,1,3737,No,4,3,19,0,1,2,Low Flight Risk
+850,27,Research & Development,Research Scientist,1,1706,No,4,3,11,0,2,1,Low Flight Risk
+851,51,Sales,Manager,4,16307,No,3,26,14,4,2,2,Low Flight Risk
+852,44,Research & Development,Healthcare Representative,2,5933,No,2,4,12,2,2,2,Low Flight Risk
+854,25,Research & Development,Research Scientist,1,3424,No,1,2,13,0,2,2,Low Flight Risk
+855,33,Sales,Sales Executive,2,4037,No,1,1,22,0,3,2,Low Flight Risk
+856,35,Research & Development,Research Scientist,1,2559,No,1,27,11,1,2,3,Medium Flight Risk
+857,36,Sales,Sales Executive,2,6201,Yes,4,1,14,4,2,4,Medium Flight Risk
+859,32,Sales,Sales Executive,2,4403,No,4,13,11,0,2,1,Low Flight Risk
+861,30,Research & Development,Research Scientist,1,3761,No,4,5,12,0,2,0,Low Flight Risk
+862,53,Sales,Sales Executive,3,10934,Yes,4,7,18,0,3,2,Low Flight Risk
+864,45,Sales,Sales Executive,3,10761,Yes,1,9,12,0,3,4,Medium Flight Risk
+865,32,Research & Development,Research Scientist,2,5175,No,3,8,12,1,2,0,Low Flight Risk
+867,52,Research & Development,Manufacturing Director,4,13826,No,4,25,22,0,3,0,Low Flight Risk
+868,37,Sales,Sales Executive,2,6334,No,3,16,19,0,3,0,Low Flight Risk
+869,28,Human Resources,Human Resources,1,4936,No,4,8,13,0,3,0,Low Flight Risk
+872,22,Research & Development,Manufacturing Director,2,4775,No,4,1,22,2,1,2,Low Flight Risk
+874,44,Research & Development,Laboratory Technician,1,2818,Yes,4,8,24,0,2,2,Low Flight Risk
+875,42,Research & Development,Research Scientist,1,2515,Yes,4,2,14,2,3,2,Low Flight Risk
+878,36,Human Resources,Human Resources,1,2342,No,1,8,21,0,3,2,Low Flight Risk
+879,25,Sales,Sales Executive,2,4194,Yes,1,3,18,0,3,4,Medium Flight Risk
+880,35,Research & Development,Manufacturing Director,3,10685,Yes,3,9,20,5,3,4,Medium Flight Risk
+882,32,Research & Development,Laboratory Technician,1,2314,No,4,1,12,0,3,0,Low Flight Risk
+885,25,Sales,Sales Executive,2,4256,No,1,4,12,0,4,2,Low Flight Risk
+887,49,Research & Development,Research Scientist,1,3580,No,1,1,16,0,3,2,Low Flight Risk
+888,24,Research & Development,Laboratory Technician,1,3162,No,4,4,17,3,2,0,Low Flight Risk
+889,32,Sales,Sales Executive,2,6524,No,2,5,14,5,3,4,Medium Flight Risk
+893,38,Sales,Sales Representative,1,2899,No,2,9,19,1,3,2,Low Flight Risk
+894,42,Research & Development,Laboratory Technician,2,5231,Yes,4,3,13,1,2,2,Low Flight Risk
+895,31,Research & Development,Research Scientist,1,2356,Yes,4,11,19,0,3,2,Low Flight Risk
+897,53,Sales,Sales Executive,4,11836,No,4,8,14,2,3,0,Low Flight Risk
+899,35,Research & Development,Manufacturing Director,3,10903,No,2,25,16,4,3,4,Medium Flight Risk
+900,37,Sales,Sales Representative,1,2973,No,4,21,15,0,3,0,Low Flight Risk
+901,53,Research & Development,Research Director,4,14275,No,4,23,18,3,3,0,Low Flight Risk
+902,43,Research & Development,Healthcare Representative,2,5562,No,4,1,13,2,2,0,Low Flight Risk
+903,47,Sales,Sales Executive,2,4537,Yes,4,2,22,7,3,4,Medium Flight Risk
+904,37,Sales,Sales Executive,3,7642,Yes,2,19,13,0,3,4,Medium Flight Risk
+905,50,Research & Development,Manager,4,17924,No,1,2,11,14,3,5,Medium Flight Risk
+909,39,Human Resources,Human Resources,2,5204,No,4,2,11,0,3,1,Low Flight Risk
+910,33,Human Resources,Human Resources,1,2277,Yes,2,3,11,0,4,5,Medium Flight Risk
+912,29,Research & Development,Laboratory Technician,1,2532,No,4,7,14,0,3,0,Low Flight Risk
+913,44,Research & Development,Research Scientist,1,2559,Yes,1,9,13,7,3,6,High Flight Risk
+916,28,Sales,Sales Executive,2,4908,No,4,5,14,0,3,0,Low Flight Risk
+920,43,Research & Development,Manufacturing Director,2,4765,No,2,8,21,0,4,2,Low Flight Risk
+924,36,Research & Development,Healthcare Representative,2,6586,Yes,4,14,17,4,2,4,Medium Flight Risk
+925,47,Sales,Sales Representative,1,3294,Yes,4,2,18,1,2,2,Low Flight Risk
+930,28,Research & Development,Research Scientist,1,2377,No,3,9,18,2,3,0,Low Flight Risk
+933,27,Research & Development,Research Scientist,1,2318,No,3,4,19,0,3,0,Low Flight Risk
+934,34,Research & Development,Laboratory Technician,1,2008,No,2,10,14,1,3,2,Low Flight Risk
+936,42,Sales,Sales Executive,2,6244,No,3,14,17,0,3,0,Low Flight Risk
+939,33,Research & Development,Research Scientist,1,2799,Yes,1,1,11,0,3,5,Medium Flight Risk
+940,58,Research & Development,Healthcare Representative,3,10552,Yes,2,5,13,0,3,4,Medium Flight Risk
+941,31,Sales,Sales Representative,1,2329,No,3,7,15,5,4,2,Low Flight Risk
+942,35,Research & Development,Healthcare Representative,2,4014,Yes,4,21,25,0,1,4,Medium Flight Risk
+944,49,Research & Development,Laboratory Technician,3,7403,No,2,8,11,1,2,3,Medium Flight Risk
+945,48,Research & Development,Research Scientist,1,2259,No,3,20,17,0,2,0,Low Flight Risk
+947,31,Sales,Sales Executive,2,6932,No,3,20,13,0,2,0,Low Flight Risk
+949,36,Research & Development,Research Scientist,1,4678,No,4,7,18,0,3,0,Low Flight Risk
+950,38,Research & Development,Research Director,3,13582,No,1,1,13,5,3,4,Medium Flight Risk
+951,32,Research & Development,Laboratory Technician,1,2332,No,2,1,20,0,3,2,Low Flight Risk
+954,40,Sales,Sales Executive,3,9705,No,2,10,12,0,2,2,Low Flight Risk
+956,26,Sales,Sales Executive,2,4294,No,1,1,12,0,3,2,Low Flight Risk
+957,41,Research & Development,Laboratory Technician,1,4721,Yes,1,6,13,2,3,4,Medium Flight Risk
+958,36,Research & Development,Laboratory Technician,1,2519,No,3,2,21,3,3,0,Low Flight Risk
+961,31,Research & Development,Healthcare Representative,2,5855,Yes,4,12,11,8,1,7,High Flight Risk
+964,40,Research & Development,Research Scientist,1,3617,Yes,2,9,14,0,3,4,Medium Flight Risk
+966,32,Research & Development,Manufacturing Director,2,6725,No,1,3,12,6,4,4,Medium Flight Risk
+969,33,Research & Development,Healthcare Representative,2,6949,No,4,1,14,1,3,0,Low Flight Risk
+972,45,Research & Development,Laboratory Technician,2,4447,No,2,4,12,0,2,2,Low Flight Risk
+974,29,Sales,Sales Representative,1,2157,No,4,20,15,0,3,0,Low Flight Risk
+975,35,Sales,Sales Executive,2,4601,No,3,18,16,1,3,0,Low Flight Risk
+976,52,Research & Development,Manager,4,17099,No,4,1,15,7,2,2,Low Flight Risk
+981,53,Sales,Manager,4,14852,No,3,2,13,15,4,2,Low Flight Risk
+982,30,Sales,Sales Executive,3,7264,No,3,8,11,7,4,3,Medium Flight Risk
+983,38,Sales,Sales Executive,2,5666,Yes,4,10,13,1,3,2,Low Flight Risk
+984,35,Sales,Sales Executive,3,7823,No,4,3,13,0,3,0,Low Flight Risk
+985,39,Sales,Sales Executive,3,7880,No,3,2,18,0,3,0,Low Flight Risk
+987,47,Research & Development,Manufacturing Director,2,5067,Yes,3,16,19,2,4,2,Low Flight Risk
+990,36,Sales,Sales Executive,2,5079,No,4,8,13,0,3,0,Low Flight Risk
+992,33,Sales,Manager,4,17444,No,3,17,11,6,3,3,Medium Flight Risk
+995,33,Research & Development,Research Scientist,1,3452,No,4,13,18,0,3,0,Low Flight Risk
+996,45,Research & Development,Laboratory Technician,1,2270,No,4,1,14,0,3,0,Low Flight Risk
+997,50,Research & Development,Research Director,4,17399,No,4,1,22,1,2,0,Low Flight Risk
+998,33,Research & Development,Healthcare Representative,2,5488,Yes,2,1,13,1,3,4,Medium Flight Risk
+999,41,Research & Development,Research Director,5,19419,No,3,9,17,0,4,0,Low Flight Risk
+1001,27,Research & Development,Laboratory Technician,1,2811,No,2,16,14,2,3,2,Low Flight Risk
+1002,45,Research & Development,Laboratory Technician,2,3633,Yes,1,23,15,0,3,4,Medium Flight Risk
+1003,47,Sales,Sales Executive,2,4163,Yes,4,4,17,0,3,2,Low Flight Risk
+1005,50,Research & Development,Manufacturing Director,4,13973,Yes,3,24,18,1,3,2,Low Flight Risk
+1006,38,Research & Development,Research Scientist,1,2684,No,3,10,17,0,2,0,Low Flight Risk
+1007,46,Research & Development,Manufacturing Director,3,10845,No,3,7,13,0,3,0,Low Flight Risk
+1009,24,Research & Development,Manufacturing Director,2,4377,No,3,17,15,3,3,0,Low Flight Risk
+1011,31,Research & Development,Manufacturing Director,2,4148,No,1,1,12,0,3,2,Low Flight Risk
+1012,18,Research & Development,Research Scientist,1,1051,No,4,5,15,0,3,0,Low Flight Risk
+1013,54,Research & Development,Manufacturing Director,3,10739,No,3,17,11,0,3,1,Low Flight Risk
+1014,35,Research & Development,Healthcare Representative,3,10388,Yes,3,25,11,10,2,5,Medium Flight Risk
+1015,30,Research & Development,Research Director,3,11416,Yes,1,8,12,1,2,4,Medium Flight Risk
+1018,26,Research & Development,Manufacturing Director,2,5472,No,4,2,12,1,3,0,Low Flight Risk
+1019,22,Research & Development,Laboratory Technician,1,2451,No,1,8,15,1,2,2,Low Flight Risk
+1022,48,Research & Development,Healthcare Representative,2,4240,No,3,6,13,2,3,0,Low Flight Risk
+1024,48,Research & Development,Healthcare Representative,3,10999,No,3,4,14,4,3,2,Low Flight Risk
+1025,41,Research & Development,Manufacturing Director,2,5003,No,3,7,14,2,3,0,Low Flight Risk
+1026,39,Research & Development,Manufacturing Director,4,12742,No,4,1,16,11,3,2,Low Flight Risk
+1027,27,Research & Development,Manufacturing Director,2,4227,No,4,2,18,2,3,0,Low Flight Risk
+1028,35,Research & Development,Laboratory Technician,1,3917,No,4,10,20,1,2,0,Low Flight Risk
+1029,42,Sales,Manager,5,18303,No,3,5,13,0,4,0,Low Flight Risk
+1030,50,Research & Development,Laboratory Technician,1,2380,No,4,9,18,0,3,0,Low Flight Risk
+1032,59,Research & Development,Manufacturing Director,4,13726,Yes,4,2,13,4,3,4,Medium Flight Risk
+1034,55,Research & Development,Healthcare Representative,2,6385,Yes,2,18,14,6,3,6,High Flight Risk
+1035,41,Research & Development,Research Director,5,19973,No,3,7,22,5,3,2,Low Flight Risk
+1036,38,Sales,Sales Executive,2,6861,Yes,4,3,12,0,3,2,Low Flight Risk
+1039,44,Sales,Sales Executive,4,13320,Yes,4,28,18,11,3,4,Medium Flight Risk
+1040,50,Sales,Sales Executive,2,6347,No,3,1,12,0,3,0,Low Flight Risk
+1043,39,Research & Development,Manufacturing Director,3,10880,Yes,1,22,13,2,3,4,Medium Flight Risk
+1044,33,Sales,Sales Representative,1,2342,No,4,8,19,2,2,0,Low Flight Risk
+1045,45,Sales,Manager,4,17650,No,4,11,13,1,4,0,Low Flight Risk
+1046,32,Research & Development,Laboratory Technician,1,4025,No,3,29,12,7,3,2,Low Flight Risk
+1047,34,Sales,Sales Executive,2,9725,No,4,1,11,0,2,1,Low Flight Risk
+1048,59,Sales,Manager,3,11904,Yes,4,1,14,0,1,4,Medium Flight Risk
+1049,45,Human Resources,Human Resources,1,2177,No,2,24,16,0,3,2,Low Flight Risk
+1050,53,Sales,Sales Executive,3,7525,No,2,2,12,6,3,4,Medium Flight Risk
+1055,34,Sales,Sales Representative,1,2220,Yes,3,10,19,0,3,2,Low Flight Risk
+1056,28,Sales,Sales Representative,1,1052,No,2,10,22,0,3,2,Low Flight Risk
+1060,38,Research & Development,Research Scientist,1,2821,No,3,3,16,2,3,0,Low Flight Risk
+1061,50,Research & Development,Research Director,5,19237,Yes,3,2,11,7,2,5,Medium Flight Risk
+1062,37,Research & Development,Healthcare Representative,2,4107,No,2,3,15,0,2,2,Low Flight Risk
+1066,40,Sales,Sales Executive,2,8396,No,1,26,14,7,2,4,Medium Flight Risk
+1068,26,Research & Development,Research Scientist,1,2007,No,3,1,13,1,3,0,Low Flight Risk
+1069,46,Research & Development,Research Director,5,19627,No,4,1,17,2,3,0,Low Flight Risk
+1070,54,Sales,Sales Executive,3,10686,No,3,2,11,7,3,3,Medium Flight Risk
+1071,56,Research & Development,Research Scientist,1,2942,No,3,9,19,0,3,0,Low Flight Risk
+1073,36,Research & Development,Manufacturing Director,3,8858,No,4,12,11,7,2,3,Medium Flight Risk
+1074,55,Research & Development,Manager,4,16756,No,1,2,15,6,4,4,Medium Flight Risk
+1076,43,Sales,Sales Executive,3,10798,No,4,25,13,0,3,0,Low Flight Risk
+1080,46,Research & Development,Research Scientist,2,4615,Yes,1,8,23,1,3,4,Medium Flight Risk
+1083,26,Research & Development,Laboratory Technician,1,3955,No,1,1,16,1,3,2,Low Flight Risk
+1084,30,Research & Development,Manufacturing Director,2,9957,No,1,20,15,0,2,2,Low Flight Risk
+1085,41,Research & Development,Research Scientist,1,3376,No,3,7,13,0,3,0,Low Flight Risk
+1088,38,Research & Development,Healthcare Representative,3,8823,No,3,17,18,1,2,0,Low Flight Risk
+1092,40,Research & Development,Healthcare Representative,3,10322,No,4,20,20,11,3,2,Low Flight Risk
+1094,27,Research & Development,Laboratory Technician,1,4621,No,3,8,19,1,3,0,Low Flight Risk
+1096,55,Research & Development,Manufacturing Director,3,10976,No,2,2,18,1,3,2,Low Flight Risk
+1097,28,Research & Development,Research Scientist,2,3660,No,3,10,13,1,4,0,Low Flight Risk
+1099,33,Research & Development,Healthcare Representative,3,7119,No,4,5,15,1,3,0,Low Flight Risk
+1102,28,Research & Development,Laboratory Technician,1,2207,No,3,15,16,2,2,0,Low Flight Risk
+1103,34,Research & Development,Healthcare Representative,2,7756,No,4,3,17,0,2,0,Low Flight Risk
+1105,37,Sales,Sales Executive,2,6694,Yes,4,10,14,0,3,2,Low Flight Risk
+1109,42,Research & Development,Manager,4,17665,No,1,2,17,13,3,4,Medium Flight Risk
+1114,33,Sales,Sales Executive,2,4302,No,2,7,17,0,3,2,Low Flight Risk
+1115,34,Research & Development,Research Scientist,1,2979,No,4,3,17,0,3,0,Low Flight Risk
+1116,48,Research & Development,Manager,4,16885,No,4,1,22,2,2,0,Low Flight Risk
+1117,45,Sales,Sales Executive,2,5593,No,3,9,13,4,3,2,Low Flight Risk
+1118,52,Research & Development,Healthcare Representative,3,10445,No,2,7,19,4,3,4,Medium Flight Risk
+1119,38,Sales,Sales Executive,3,8740,Yes,3,10,14,2,3,2,Low Flight Risk
+1120,29,Research & Development,Research Scientist,1,2514,No,4,28,22,1,3,0,Low Flight Risk
+1121,28,Research & Development,Manufacturing Director,3,7655,No,2,3,17,1,2,2,Low Flight Risk
+1124,46,Sales,Manager,4,17465,No,3,3,12,4,3,2,Low Flight Risk
+1125,38,Sales,Sales Executive,3,7351,No,2,2,16,0,3,2,Low Flight Risk
+1126,43,Research & Development,Manufacturing Director,3,10820,No,1,27,11,0,3,3,Medium Flight Risk
+1128,40,Research & Development,Research Director,5,19626,No,3,14,14,4,4,2,Low Flight Risk
+1131,21,Research & Development,Research Scientist,1,2070,Yes,2,1,11,2,4,5,Medium Flight Risk
+1132,39,Research & Development,Laboratory Technician,2,6782,No,2,9,15,0,2,2,Low Flight Risk
+1133,36,Research & Development,Manufacturing Director,2,7779,No,4,18,20,0,3,0,Low Flight Risk
+1135,31,Sales,Sales Representative,1,2791,No,4,20,12,2,3,0,Low Flight Risk
+1136,28,Research & Development,Research Scientist,1,3201,No,2,2,17,0,1,4,Medium Flight Risk
+1137,35,Sales,Sales Executive,2,4968,No,4,11,11,0,3,1,Low Flight Risk
+1138,49,Sales,Sales Executive,4,13120,No,2,8,17,2,3,2,Low Flight Risk
+1140,34,Research & Development,Manufacturing Director,2,4033,No,3,2,11,0,2,1,Low Flight Risk
+1143,29,Research & Development,Research Scientist,1,3291,No,2,10,14,1,2,2,Low Flight Risk
+1148,42,Research & Development,Laboratory Technician,2,4272,No,4,29,19,0,3,0,Low Flight Risk
+1150,29,Research & Development,Manufacturing Director,2,5056,Yes,4,8,15,1,2,2,Low Flight Risk
+1152,38,Human Resources,Human Resources,1,2844,No,3,1,13,5,4,2,Low Flight Risk
+1154,28,Research & Development,Research Scientist,1,2703,Yes,3,6,14,0,3,2,Low Flight Risk
+1158,41,Research & Development,Laboratory Technician,1,4766,Yes,4,12,11,0,3,3,Medium Flight Risk
+1161,37,Research & Development,Healthcare Representative,2,5731,No,4,25,13,1,3,0,Low Flight Risk
+1162,27,Research & Development,Research Scientist,1,2539,No,3,6,13,2,3,0,Low Flight Risk
+1163,34,Sales,Sales Executive,2,5714,No,3,9,20,1,2,0,Low Flight Risk
+1164,35,Human Resources,Human Resources,1,4323,No,3,8,17,1,1,2,Low Flight Risk
+1166,40,Research & Development,Research Director,3,13499,No,3,9,17,2,2,0,Low Flight Risk
+1171,42,Sales,Sales Executive,2,5155,No,1,4,13,1,4,2,Low Flight Risk
+1172,35,Research & Development,Laboratory Technician,1,2258,No,3,1,12,1,3,0,Low Flight Risk
+1173,24,Research & Development,Laboratory Technician,1,3597,No,2,24,22,1,3,2,Low Flight Risk
+1177,26,Research & Development,Laboratory Technician,1,4420,No,4,3,22,0,3,0,Low Flight Risk
+1179,30,Sales,Sales Executive,2,6578,No,3,10,18,1,3,0,Low Flight Risk
+1180,40,Research & Development,Research Scientist,2,4422,Yes,4,26,13,0,1,4,Medium Flight Risk
+1182,35,Research & Development,Manufacturing Director,3,10274,No,2,2,18,6,4,4,Medium Flight Risk
+1184,34,Research & Development,Healthcare Representative,2,5343,No,1,1,20,4,3,4,Medium Flight Risk
+1185,35,Research & Development,Laboratory Technician,1,2376,No,4,4,13,2,4,0,Low Flight Risk
+1190,32,Sales,Sales Representative,1,2827,No,1,2,12,0,3,2,Low Flight Risk
+1191,56,Research & Development,Manager,5,19943,No,1,4,13,4,3,4,Medium Flight Risk
+1192,29,Research & Development,Laboratory Technician,1,3131,No,4,6,13,0,3,0,Low Flight Risk
+1193,19,Research & Development,Research Scientist,1,2552,No,1,9,25,0,3,2,Low Flight Risk
+1195,45,Research & Development,Research Scientist,1,4477,Yes,3,7,19,0,2,2,Low Flight Risk
+1196,37,Research & Development,Manufacturing Director,2,6474,No,4,1,13,3,2,0,Low Flight Risk
+1198,20,Research & Development,Laboratory Technician,1,3033,No,3,3,12,1,2,0,Low Flight Risk
+1201,53,Research & Development,Manager,5,18606,No,3,7,18,4,3,2,Low Flight Risk
+1202,29,Research & Development,Research Scientist,1,2168,Yes,4,15,18,1,2,2,Low Flight Risk
+1204,46,Sales,Manager,4,17048,No,1,2,23,15,3,4,Medium Flight Risk
+1206,44,Research & Development,Research Scientist,1,2290,No,3,17,13,0,3,0,Low Flight Risk
+1207,33,Human Resources,Human Resources,1,3600,No,3,2,13,1,3,0,Low Flight Risk
+1211,30,Sales,Sales Executive,2,4115,No,1,29,19,0,3,2,Low Flight Risk
+1212,40,Sales,Sales Executive,2,4327,No,2,2,12,0,3,2,Low Flight Risk
+1215,50,Research & Development,Manager,4,17856,No,1,2,22,2,3,2,Low Flight Risk
+1216,28,Research & Development,Laboratory Technician,1,3196,No,1,19,12,3,3,2,Low Flight Risk
+1217,46,Research & Development,Research Director,5,19081,No,2,15,11,0,3,3,Medium Flight Risk
+1218,35,Sales,Sales Executive,2,8966,Yes,1,17,15,1,3,4,Medium Flight Risk
+1220,33,Sales,Sales Executive,2,4539,No,3,25,12,0,2,0,Low Flight Risk
+1221,36,Research & Development,Laboratory Technician,1,2741,No,3,6,14,1,3,0,Low Flight Risk
+1224,30,Research & Development,Laboratory Technician,2,3491,No,3,7,13,8,2,2,Low Flight Risk
+1225,44,Research & Development,Research Scientist,2,4541,No,4,29,25,13,3,2,Low Flight Risk
+1226,20,Sales,Sales Representative,1,2678,No,4,21,17,2,3,0,Low Flight Risk
+1228,46,Research & Development,Manufacturing Director,2,7379,No,4,2,11,1,2,1,Low Flight Risk
+1231,42,Human Resources,Human Resources,2,6272,No,1,2,16,0,4,2,Low Flight Risk
+1233,60,Sales,Sales Executive,2,5220,Yes,4,7,18,1,3,2,Low Flight Risk
+1234,32,Research & Development,Laboratory Technician,1,2743,No,2,13,20,2,3,2,Low Flight Risk
+1235,32,Research & Development,Research Scientist,2,4998,Yes,3,2,14,0,3,2,Low Flight Risk
+1237,36,Research & Development,Manufacturing Director,3,10252,Yes,1,1,21,7,3,6,High Flight Risk
+1238,33,Research & Development,Research Scientist,1,2781,No,4,9,13,4,3,2,Low Flight Risk
+1239,40,Sales,Sales Executive,2,6852,No,2,10,12,1,4,2,Low Flight Risk
+1240,25,Sales,Sales Executive,2,4950,No,4,10,14,1,3,0,Low Flight Risk
+1241,30,Research & Development,Research Scientist,1,3579,Yes,2,1,21,5,3,6,High Flight Risk
+1242,42,Research & Development,Research Director,3,13191,Yes,1,26,17,0,3,4,Medium Flight Risk
+1243,35,Sales,Sales Executive,3,10377,Yes,4,8,11,4,2,5,Medium Flight Risk
+1244,27,Research & Development,Research Scientist,1,2235,Yes,1,14,14,6,2,6,High Flight Risk
+1245,54,Research & Development,Manufacturing Director,3,10502,No,3,1,17,1,1,2,Low Flight Risk
+1246,44,Research & Development,Research Scientist,1,2011,No,4,2,13,7,3,2,Low Flight Risk
+1249,29,Research & Development,Research Scientist,1,3760,No,4,1,15,1,3,0,Low Flight Risk
+1250,54,Research & Development,Research Director,4,17779,No,4,3,14,0,3,0,Low Flight Risk
+1251,31,Research & Development,Healthcare Representative,2,6833,Yes,1,11,12,0,2,4,Medium Flight Risk
+1252,31,Research & Development,Healthcare Representative,2,6812,No,1,24,19,1,3,2,Low Flight Risk
+1254,59,Sales,Sales Executive,2,5171,No,4,3,17,0,3,0,Low Flight Risk
+1255,43,Research & Development,Research Director,5,19740,No,4,3,14,0,3,0,Low Flight Risk
+1256,49,Research & Development,Manager,5,18711,No,3,4,13,0,4,0,Low Flight Risk
+1257,36,Research & Development,Research Scientist,1,3692,No,2,3,12,0,2,2,Low Flight Risk
+1258,48,Research & Development,Laboratory Technician,1,2559,No,2,2,11,0,2,3,Medium Flight Risk
+1259,27,Research & Development,Research Scientist,1,2517,No,3,4,11,0,3,1,Low Flight Risk
+1260,29,Research & Development,Healthcare Representative,2,6623,Yes,4,7,11,1,3,3,Medium Flight Risk
+1263,48,Research & Development,Research Director,5,18265,No,4,1,12,0,4,0,Low Flight Risk
+1264,29,Research & Development,Research Director,4,16124,No,4,1,14,1,2,0,Low Flight Risk
+1265,34,Research & Development,Research Scientist,1,2585,No,3,20,17,0,2,0,Low Flight Risk
+1267,44,Sales,Manager,5,18213,No,2,5,11,3,3,3,Medium Flight Risk
+1268,33,Sales,Sales Executive,3,8380,Yes,3,10,14,0,3,2,Low Flight Risk
+1269,19,Research & Development,Research Scientist,1,2994,Yes,4,25,12,0,3,2,Low Flight Risk
+1270,23,Research & Development,Research Scientist,1,1223,No,3,1,22,0,3,0,Low Flight Risk
+1275,26,Research & Development,Research Scientist,1,2875,Yes,4,4,20,2,2,2,Low Flight Risk
+1278,55,Research & Development,Healthcare Representative,4,13577,Yes,2,8,15,15,3,6,High Flight Risk
+1280,46,Sales,Manager,5,18789,No,2,4,14,0,3,2,Low Flight Risk
+1281,34,Sales,Sales Executive,2,4538,Yes,1,2,12,0,3,4,Medium Flight Risk
+1282,51,Sales,Manager,5,19847,Yes,2,9,24,11,2,6,High Flight Risk
+1283,59,Research & Development,Manufacturing Director,3,10512,No,4,18,12,5,2,2,Low Flight Risk
+1285,34,Research & Development,Laboratory Technician,2,4444,No,2,19,13,5,4,4,Medium Flight Risk
+1286,28,Research & Development,Laboratory Technician,1,2154,Yes,3,1,11,0,2,3,Medium Flight Risk
+1288,44,Research & Development,Manager,5,19190,No,1,4,14,14,2,4,Medium Flight Risk
+1289,34,Human Resources,Human Resources,2,4490,No,2,11,11,1,4,3,Medium Flight Risk
+1291,35,Research & Development,Research Scientist,1,3506,Yes,3,6,14,2,3,2,Low Flight Risk
+1292,42,Research & Development,Research Scientist,2,2372,Yes,2,7,16,0,3,4,Medium Flight Risk
+1293,43,Sales,Sales Executive,3,10231,No,4,4,14,15,4,2,Low Flight Risk
+1294,36,Research & Development,Manufacturing Director,2,5410,Yes,2,2,11,5,3,7,High Flight Risk
+1296,28,Research & Development,Laboratory Technician,1,3867,Yes,4,2,12,2,3,2,Low Flight Risk
+1297,51,Research & Development,Laboratory Technician,1,2838,No,3,6,14,7,2,2,Low Flight Risk
+1298,30,Research & Development,Manufacturing Director,2,4695,Yes,3,9,18,1,3,2,Low Flight Risk
+1301,28,Research & Development,Research Scientist,1,2080,No,1,1,11,1,2,3,Medium Flight Risk
+1303,25,Research & Development,Research Scientist,1,2096,No,2,1,18,2,2,2,Low Flight Risk
+1304,32,Sales,Sales Executive,2,6209,No,4,8,15,0,4,0,Low Flight Risk
+1306,45,Research & Development,Manager,5,18061,No,2,25,22,0,3,2,Low Flight Risk
+1307,39,Research & Development,Manager,4,17123,Yes,2,13,13,15,3,6,High Flight Risk
+1308,58,Research & Development,Research Scientist,1,2372,No,3,23,12,2,3,0,Low Flight Risk
+1311,30,Research & Development,Laboratory Technician,2,4627,No,4,6,12,6,3,2,Low Flight Risk
+1312,36,Research & Development,Healthcare Representative,3,7094,No,3,10,12,1,3,0,Low Flight Risk
+1314,46,Human Resources,Human Resources,1,3423,No,1,1,12,5,4,4,Medium Flight Risk
+1315,28,Research & Development,Laboratory Technician,2,6674,No,4,1,11,7,3,3,Medium Flight Risk
+1317,50,Research & Development,Research Director,4,16880,Yes,1,28,11,1,3,5,Medium Flight Risk
+1321,30,Research & Development,Manager,3,11916,Yes,1,17,23,0,3,4,Medium Flight Risk
+1322,39,Research & Development,Manufacturing Director,2,4534,No,3,18,11,1,3,1,Low Flight Risk
+1324,31,Sales,Sales Executive,3,9852,Yes,3,2,19,9,2,4,Medium Flight Risk
+1329,41,Sales,Sales Executive,2,6151,No,2,10,13,11,3,4,Medium Flight Risk
+1334,42,Research & Development,Manager,4,17861,Yes,3,2,13,2,2,2,Low Flight Risk
+1336,55,Research & Development,Manager,5,19187,No,3,2,14,9,3,2,Low Flight Risk
+1338,56,Human Resources,Manager,5,19717,No,2,8,14,7,3,4,Medium Flight Risk
+1340,40,Research & Development,Research Scientist,1,3544,No,3,16,16,0,3,0,Low Flight Risk
+1344,34,Research & Development,Healthcare Representative,3,8500,No,4,9,11,1,2,1,Low Flight Risk
+1346,40,Research & Development,Research Scientist,2,4661,No,4,2,13,8,3,2,Low Flight Risk
+1349,41,Sales,Sales Executive,2,4103,No,1,1,17,1,3,2,Low Flight Risk
+1350,35,Research & Development,Research Scientist,2,4249,Yes,3,4,11,1,3,3,Medium Flight Risk
+1352,51,Human Resources,Manager,4,14026,Yes,2,5,11,0,3,5,Medium Flight Risk
+1355,38,Sales,Sales Executive,2,6893,No,1,2,15,1,3,2,Low Flight Risk
+1356,34,Sales,Sales Executive,2,6125,No,1,15,12,9,4,4,Medium Flight Risk
+1358,25,Research & Development,Laboratory Technician,1,3669,No,4,19,11,1,2,1,Low Flight Risk
+1361,40,Research & Development,Laboratory Technician,1,2387,No,2,1,22,0,3,2,Low Flight Risk
+1362,36,Sales,Sales Executive,2,4639,No,1,7,16,6,2,4,Medium Flight Risk
+1363,48,Research & Development,Manufacturing Director,3,7898,No,4,4,11,0,3,1,Low Flight Risk
+1364,27,Sales,Sales Representative,1,2534,No,4,11,14,0,3,0,Low Flight Risk
+1367,51,Research & Development,Manufacturing Director,4,13142,No,2,11,16,0,2,2,Low Flight Risk
+1368,18,Research & Development,Laboratory Technician,1,1611,No,4,1,15,0,4,0,Low Flight Risk
+1369,35,Research & Development,Laboratory Technician,2,5363,No,4,1,12,0,3,0,Low Flight Risk
+1371,27,Sales,Sales Executive,2,5071,No,4,2,20,0,3,0,Low Flight Risk
+1373,56,Research & Development,Manufacturing Director,4,13402,Yes,2,23,12,15,3,6,High Flight Risk
+1374,34,Research & Development,Research Scientist,1,2029,No,3,26,20,0,3,0,Low Flight Risk
+1375,40,Research & Development,Healthcare Representative,2,6377,No,3,2,20,11,3,2,Low Flight Risk
+1377,34,Research & Development,Laboratory Technician,2,5429,No,3,29,13,7,3,2,Low Flight Risk
+1382,38,Research & Development,Research Scientist,1,2610,No,3,7,11,0,3,1,Low Flight Risk
+1383,34,Research & Development,Healthcare Representative,2,6687,No,4,2,11,4,4,3,Medium Flight Risk
+1387,28,Sales,Sales Executive,2,4724,No,1,26,11,0,3,3,Medium Flight Risk
+1390,39,Sales,Sales Executive,2,6120,Yes,4,21,12,1,4,2,Low Flight Risk
+1391,51,Sales,Sales Executive,3,10596,No,2,2,11,3,3,3,Medium Flight Risk
+1392,41,Research & Development,Research Scientist,2,5467,Yes,4,22,14,3,2,2,Low Flight Risk
+1394,37,Research & Development,Research Scientist,1,2996,Yes,3,4,15,1,3,2,Low Flight Risk
+1395,33,Sales,Sales Executive,2,9998,No,4,5,13,1,4,0,Low Flight Risk
+1396,32,Sales,Sales Executive,2,4078,Yes,2,2,13,1,2,4,Medium Flight Risk
+1397,39,Research & Development,Healthcare Representative,3,10920,No,3,25,21,0,3,0,Low Flight Risk
+1399,25,Sales,Sales Executive,2,6232,No,3,18,11,1,2,1,Low Flight Risk
+1401,52,Research & Development,Manufacturing Director,4,13247,Yes,3,28,11,0,2,3,Medium Flight Risk
+1402,43,Research & Development,Research Scientist,2,4081,Yes,3,6,14,1,1,4,Medium Flight Risk
+1403,27,Sales,Sales Executive,2,5769,Yes,4,10,11,4,3,5,Medium Flight Risk
+1407,26,Research & Development,Research Scientist,1,3904,No,4,2,12,1,3,0,Low Flight Risk
+1408,42,Human Resources,Manager,4,16799,No,1,10,14,0,3,2,Low Flight Risk
+1409,52,Research & Development,Laboratory Technician,1,2950,No,1,8,13,0,1,4,Medium Flight Risk
+1411,37,Research & Development,Laboratory Technician,1,3629,No,3,11,18,0,3,0,Low Flight Risk
+1412,35,Research & Development,Manufacturing Director,3,9362,No,4,18,11,2,3,1,Low Flight Risk
+1415,25,Research & Development,Laboratory Technician,1,3229,No,4,1,11,0,2,1,Low Flight Risk
+1417,26,Research & Development,Laboratory Technician,1,3578,No,1,7,12,0,3,2,Low Flight Risk
+1419,29,Human Resources,Human Resources,3,7988,No,1,17,13,0,2,2,Low Flight Risk
+1422,54,Research & Development,Research Director,4,17328,No,4,1,19,12,2,2,Low Flight Risk
+1423,58,Research & Development,Research Director,5,19701,Yes,1,1,21,1,3,4,Medium Flight Risk
+1424,55,Research & Development,Research Director,4,14732,No,4,1,13,0,4,0,Low Flight Risk
+1425,36,Sales,Sales Executive,2,9278,Yes,2,3,16,0,3,4,Medium Flight Risk
+1428,30,Sales,Sales Executive,2,4779,No,1,7,14,0,3,2,Low Flight Risk
+1430,31,Research & Development,Research Director,4,16422,No,2,8,11,1,4,3,Medium Flight Risk
+1431,34,Research & Development,Research Scientist,1,2996,No,1,1,14,1,3,2,Low Flight Risk
+1434,27,Research & Development,Laboratory Technician,1,2099,No,1,11,14,1,4,2,Low Flight Risk
+1435,36,Research & Development,Laboratory Technician,2,5810,No,4,4,16,1,2,0,Low Flight Risk
+1436,36,Sales,Sales Executive,2,5647,No,1,16,13,0,2,2,Low Flight Risk
+1438,47,Research & Development,Research Scientist,1,3420,No,4,1,12,1,2,0,Low Flight Risk
+1440,37,Research & Development,Laboratory Technician,1,3500,No,3,5,14,1,1,2,Low Flight Risk
+1441,56,Research & Development,Research Scientist,1,2066,No,1,1,22,1,4,2,Low Flight Risk
+1443,47,Research & Development,Research Director,4,17169,No,3,2,19,5,4,2,Low Flight Risk
+1445,24,Sales,Sales Executive,2,4162,Yes,3,4,12,0,3,2,Low Flight Risk
+1446,32,Sales,Sales Executive,2,9204,No,4,7,12,0,2,0,Low Flight Risk
+1447,34,Research & Development,Laboratory Technician,1,3294,No,2,1,17,0,2,2,Low Flight Risk
+1448,41,Research & Development,Research Scientist,1,2127,Yes,3,5,12,0,2,2,Low Flight Risk
+1449,40,Research & Development,Laboratory Technician,2,3975,No,3,9,11,0,4,1,Low Flight Risk
+1453,31,Sales,Sales Executive,3,10793,No,4,8,18,9,3,2,Low Flight Risk
+1460,45,Research & Development,Healthcare Representative,3,10851,Yes,1,20,18,0,3,4,Medium Flight Risk
+1461,31,Human Resources,Human Resources,1,2109,No,2,8,18,0,3,2,Low Flight Risk
+1465,45,Research & Development,Manufacturing Director,3,9380,Yes,4,29,18,1,4,2,Low Flight Risk
+1466,48,Sales,Sales Executive,2,5486,No,1,7,11,2,3,3,Medium Flight Risk
+1468,40,Research & Development,Research Director,3,13757,No,2,8,11,4,3,5,Medium Flight Risk
+1469,28,Sales,Sales Executive,2,8463,No,1,5,18,1,3,2,Low Flight Risk
+1471,44,Research & Development,Laboratory Technician,1,3162,No,3,5,14,0,3,0,Low Flight Risk
+1472,53,Research & Development,Research Director,4,16598,No,2,2,12,8,2,4,Medium Flight Risk
+1473,49,Research & Development,Healthcare Representative,2,6651,No,3,5,14,1,2,0,Low Flight Risk
+1474,40,Research & Development,Research Scientist,1,2345,No,3,2,14,1,4,0,Low Flight Risk
+1475,44,Research & Development,Research Scientist,1,3420,No,2,20,13,1,2,2,Low Flight Risk
+1477,33,Sales,Sales Executive,2,4373,No,1,7,14,0,3,2,Low Flight Risk
+1478,34,Sales,Sales Executive,2,4759,No,1,3,18,3,3,2,Low Flight Risk
+1479,30,Sales,Sales Executive,2,5301,No,3,16,15,2,2,0,Low Flight Risk
+1480,42,Research & Development,Laboratory Technician,1,3673,No,4,9,13,5,3,2,Low Flight Risk
+1481,44,Sales,Sales Executive,2,4768,No,3,1,12,0,2,0,Low Flight Risk
+1482,30,Research & Development,Research Scientist,1,1274,No,3,7,13,0,2,0,Low Flight Risk
+1483,57,Research & Development,Research Scientist,2,4900,No,3,1,24,2,2,0,Low Flight Risk
+1484,49,Research & Development,Healthcare Representative,3,10466,No,2,7,14,0,3,2,Low Flight Risk
+1485,34,Research & Development,Research Director,4,17007,No,1,15,14,6,2,4,Medium Flight Risk
+1492,35,Sales,Sales Representative,1,2404,No,3,7,13,0,3,0,Low Flight Risk
+1495,24,Sales,Sales Representative,1,2033,No,2,13,13,0,3,2,Low Flight Risk
+1496,44,Research & Development,Manufacturing Director,3,10209,Yes,3,2,18,2,2,2,Low Flight Risk
+1497,29,Sales,Sales Executive,2,8620,No,3,19,14,0,3,0,Low Flight Risk
+1499,30,Human Resources,Human Resources,1,2064,No,3,1,21,1,4,0,Low Flight Risk
+1501,55,Research & Development,Healthcare Representative,2,4035,Yes,3,4,16,1,3,2,Low Flight Risk
+1502,33,Research & Development,Laboratory Technician,1,3838,No,2,4,11,0,3,3,Medium Flight Risk
+1503,47,Sales,Sales Executive,2,4591,Yes,3,14,17,1,2,2,Low Flight Risk
+1506,28,Research & Development,Research Scientist,1,1563,No,3,1,14,0,1,2,Low Flight Risk
+1507,28,Sales,Sales Executive,2,4898,No,1,7,14,1,3,2,Low Flight Risk
+1509,49,Research & Development,Laboratory Technician,2,4789,No,1,3,25,1,3,2,Low Flight Risk
+1513,29,Research & Development,Laboratory Technician,1,3180,No,2,2,13,0,3,2,Low Flight Risk
+1514,28,Research & Development,Manufacturing Director,2,6549,No,2,29,14,1,2,2,Low Flight Risk
+1515,33,Research & Development,Healthcare Representative,2,6388,Yes,3,8,17,0,3,2,Low Flight Risk
+1516,32,Research & Development,Manager,3,11244,No,4,10,25,0,4,0,Low Flight Risk
+1520,54,Research & Development,Manager,4,16032,No,4,11,20,1,3,0,Low Flight Risk
+1523,44,Research & Development,Research Director,4,16328,No,1,28,13,14,4,4,Medium Flight Risk
+1525,39,Research & Development,Manufacturing Director,3,8376,No,2,6,18,2,3,2,Low Flight Risk
+1527,46,Sales,Manager,4,16606,No,2,3,12,5,4,4,Medium Flight Risk
+1529,35,Research & Development,Healthcare Representative,3,8606,No,2,16,19,3,1,4,Medium Flight Risk
+1533,23,Research & Development,Laboratory Technician,2,2272,No,3,20,14,1,3,0,Low Flight Risk
+1535,34,Sales,Sales Executive,3,7083,Yes,3,1,14,8,3,4,Medium Flight Risk
+1539,50,Research & Development,Research Director,4,14411,Yes,4,22,13,13,3,4,Medium Flight Risk
+1541,34,Sales,Sales Representative,1,2308,Yes,3,7,25,5,3,4,Medium Flight Risk
+1542,42,Research & Development,Laboratory Technician,1,4841,No,2,2,14,0,3,2,Low Flight Risk
+1543,37,Research & Development,Research Scientist,2,4285,No,4,13,17,3,3,0,Low Flight Risk
+1544,29,Research & Development,Healthcare Representative,2,9715,No,1,8,13,0,3,2,Low Flight Risk
+1545,33,Research & Development,Manufacturing Director,2,4320,No,2,25,13,0,3,2,Low Flight Risk
+1546,45,Research & Development,Research Scientist,1,2132,No,4,28,20,0,3,0,Low Flight Risk
+1547,42,Research & Development,Healthcare Representative,3,10124,Yes,4,2,14,13,1,6,High Flight Risk
+1548,40,Sales,Sales Executive,2,5473,No,1,9,12,7,4,4,Medium Flight Risk
+1549,33,Research & Development,Laboratory Technician,2,5207,Yes,3,28,12,5,3,4,Medium Flight Risk
+1550,40,Human Resources,Manager,4,16437,Yes,4,6,21,7,3,4,Medium Flight Risk
+1551,24,Research & Development,Laboratory Technician,1,2296,No,1,21,14,0,3,2,Low Flight Risk
+1552,40,Research & Development,Healthcare Representative,2,4069,Yes,4,8,18,2,3,2,Low Flight Risk
+1553,45,Research & Development,Healthcare Representative,3,7441,No,2,1,12,7,3,4,Medium Flight Risk
+1554,35,Sales,Sales Representative,1,2430,No,3,28,23,4,3,2,Low Flight Risk
+1555,32,Research & Development,Research Scientist,2,5878,No,2,5,12,2,3,2,Low Flight Risk
+1556,36,Sales,Sales Representative,1,2644,Yes,4,2,21,1,2,2,Low Flight Risk
+1557,48,Sales,Sales Executive,2,6439,No,3,16,14,7,3,2,Low Flight Risk
+1558,29,Research & Development,Research Scientist,1,2451,No,3,9,18,0,2,0,Low Flight Risk
+1560,33,Sales,Sales Executive,2,6392,No,1,8,13,2,1,4,Medium Flight Risk
+1563,38,Human Resources,Human Resources,2,6077,No,3,10,11,1,3,1,Low Flight Risk
+1564,35,Research & Development,Laboratory Technician,1,2450,No,1,1,19,1,3,2,Low Flight Risk
+1568,30,Sales,Sales Executive,3,9250,No,2,29,12,1,3,2,Low Flight Risk
+1574,32,Research & Development,Research Scientist,2,4087,No,1,1,14,1,2,2,Low Flight Risk
+1576,48,Research & Development,Research Scientist,1,2367,No,1,15,12,7,2,4,Medium Flight Risk
+1577,34,Research & Development,Research Scientist,1,2972,No,4,7,13,0,1,2,Low Flight Risk
+1578,55,Sales,Manager,5,19586,No,4,26,21,2,3,0,Low Flight Risk
+1580,34,Research & Development,Research Scientist,2,5484,No,4,1,17,2,2,0,Low Flight Risk
+1581,26,Research & Development,Research Scientist,1,2061,No,4,3,21,0,3,0,Low Flight Risk
+1582,38,Sales,Sales Executive,2,9924,No,2,14,11,7,3,5,Medium Flight Risk
+1583,38,Sales,Sales Executive,2,4198,No,2,16,12,1,4,2,Low Flight Risk
+1585,36,Sales,Sales Executive,2,6815,No,3,1,13,0,3,0,Low Flight Risk
+1586,29,Research & Development,Laboratory Technician,1,4723,Yes,1,3,18,1,3,4,Medium Flight Risk
+1587,35,Research & Development,Healthcare Representative,2,6142,Yes,3,10,16,0,3,2,Low Flight Risk
+1588,39,Sales,Sales Executive,3,8237,No,3,6,11,7,3,3,Medium Flight Risk
+1590,29,Research & Development,Healthcare Representative,2,8853,No,4,2,19,1,4,0,Low Flight Risk
+1591,50,Sales,Manager,5,19331,Yes,3,9,16,0,3,2,Low Flight Risk
+1592,23,Research & Development,Research Scientist,1,2073,No,3,10,16,2,3,0,Low Flight Risk
+1594,36,Research & Development,Laboratory Technician,2,5562,Yes,1,6,13,0,3,4,Medium Flight Risk
+1595,42,Research & Development,Manager,5,19613,No,4,9,22,0,3,0,Low Flight Risk
+1596,35,Research & Development,Laboratory Technician,2,3407,No,3,28,17,6,2,2,Low Flight Risk
+1597,34,Research & Development,Healthcare Representative,2,5063,No,3,10,14,7,2,2,Low Flight Risk
+1598,40,Sales,Sales Executive,2,4639,No,1,14,15,1,3,2,Low Flight Risk
+1599,43,Research & Development,Laboratory Technician,1,4876,No,2,27,12,0,3,2,Low Flight Risk
+1601,35,Research & Development,Laboratory Technician,1,2690,No,4,7,18,0,2,0,Low Flight Risk
+1602,46,Sales,Manager,4,17567,No,1,1,15,0,1,4,Medium Flight Risk
+1605,22,Research & Development,Research Scientist,1,2814,Yes,3,26,14,1,2,2,Low Flight Risk
+1606,50,Research & Development,Healthcare Representative,4,11245,Yes,3,20,15,12,3,4,Medium Flight Risk
+1607,32,Research & Development,Research Scientist,1,3312,No,4,5,17,0,3,0,Low Flight Risk
+1608,44,Research & Development,Research Director,5,19049,Yes,4,7,14,1,2,2,Low Flight Risk
+1609,30,Research & Development,Research Scientist,1,2141,No,2,7,12,1,2,2,Low Flight Risk
+1611,45,Research & Development,Laboratory Technician,2,5769,Yes,1,5,14,1,3,4,Medium Flight Risk
+1612,45,Sales,Sales Executive,2,4385,No,1,26,15,4,3,4,Medium Flight Risk
+1613,31,Sales,Sales Executive,2,5332,No,1,2,13,0,3,2,Low Flight Risk
+1614,36,Research & Development,Manufacturing Director,2,4663,Yes,3,12,12,1,3,2,Low Flight Risk
+1615,34,Research & Development,Manufacturing Director,2,4724,No,4,10,13,7,3,2,Low Flight Risk
+1617,49,Research & Development,Laboratory Technician,1,3211,No,1,25,14,1,2,2,Low Flight Risk
+1618,39,Research & Development,Manufacturing Director,2,5377,No,1,10,13,7,3,4,Medium Flight Risk
+1619,27,Research & Development,Laboratory Technician,1,4066,No,1,19,11,0,3,3,Medium Flight Risk
+1621,35,Research & Development,Research Scientist,2,5208,No,1,18,11,1,3,3,Medium Flight Risk
+1622,28,Research & Development,Manufacturing Director,2,4877,No,1,27,21,0,2,2,Low Flight Risk
+1623,21,Research & Development,Research Scientist,1,3117,No,4,5,18,2,3,0,Low Flight Risk
+1625,47,Human Resources,Manager,5,19658,No,3,26,11,1,3,1,Low Flight Risk
+1627,39,Research & Development,Laboratory Technician,2,3069,No,3,3,15,0,3,0,Low Flight Risk
+1628,40,Research & Development,Manufacturing Director,3,10435,No,3,15,13,14,3,2,Low Flight Risk
+1630,35,Research & Development,Healthcare Representative,2,4148,No,3,8,12,2,3,0,Low Flight Risk
+1631,37,Research & Development,Manufacturing Director,2,5768,No,3,19,17,0,2,0,Low Flight Risk
+1633,39,Research & Development,Manufacturing Director,2,5042,No,3,4,13,3,1,2,Low Flight Risk
+1635,45,Research & Development,Manufacturing Director,2,5770,No,4,2,19,3,3,0,Low Flight Risk
+1638,38,Research & Development,Manufacturing Director,3,7756,Yes,3,2,19,0,4,2,Low Flight Risk
+1640,37,Research & Development,Research Scientist,1,3936,No,2,10,11,7,1,7,High Flight Risk
+1641,40,Research & Development,Manufacturing Director,3,7945,Yes,4,16,15,3,2,2,Low Flight Risk
+1642,44,Human Resources,Human Resources,2,5743,Yes,4,1,11,0,3,3,Medium Flight Risk
+1644,48,Research & Development,Manager,4,15202,No,4,4,25,2,3,0,Low Flight Risk
+1646,24,Research & Development,Research Scientist,1,3760,Yes,4,2,13,1,3,2,Low Flight Risk
+1647,27,Research & Development,Research Scientist,1,3517,No,3,8,17,0,3,0,Low Flight Risk
+1648,27,Research & Development,Research Scientist,1,2580,No,4,2,13,1,2,0,Low Flight Risk
+1650,29,Sales,Sales Executive,2,5869,No,3,10,11,1,3,1,Low Flight Risk
+1651,36,Research & Development,Healthcare Representative,3,8008,No,1,5,12,0,3,2,Low Flight Risk
+1653,25,Research & Development,Manufacturing Director,2,5206,No,3,2,17,0,3,0,Low Flight Risk
+1654,39,Research & Development,Manufacturing Director,2,5295,No,2,12,21,1,3,2,Low Flight Risk
+1655,49,Research & Development,Research Director,4,16413,No,2,22,16,1,3,2,Low Flight Risk
+1656,50,Research & Development,Research Director,3,13269,No,1,17,15,1,3,2,Low Flight Risk
+1657,20,Sales,Sales Representative,1,2783,No,3,2,19,2,3,0,Low Flight Risk
+1658,34,Research & Development,Research Scientist,2,5433,No,2,3,12,7,3,4,Medium Flight Risk
+1659,36,Research & Development,Laboratory Technician,1,2013,No,2,7,11,1,3,3,Medium Flight Risk
+1661,49,Research & Development,Healthcare Representative,4,13966,Yes,3,6,19,2,3,2,Low Flight Risk
+1662,36,Research & Development,Manufacturing Director,2,4374,No,3,1,15,1,3,0,Low Flight Risk
+1664,36,Research & Development,Healthcare Representative,2,6842,No,1,3,20,0,3,2,Low Flight Risk
+1665,54,Research & Development,Manager,4,17426,No,3,22,25,4,3,2,Low Flight Risk
+1666,43,Research & Development,Research Director,4,17603,No,3,15,24,6,3,2,Low Flight Risk
+1668,38,Research & Development,Research Scientist,2,4735,No,4,1,15,2,4,0,Low Flight Risk
+1669,29,Sales,Sales Executive,2,4187,Yes,2,5,13,0,2,4,Medium Flight Risk
+1670,33,Sales,Sales Executive,2,5505,No,4,2,14,0,3,0,Low Flight Risk
+1671,32,Research & Development,Research Scientist,2,5470,No,2,2,13,1,2,2,Low Flight Risk
+1673,31,Sales,Sales Executive,2,5476,No,4,5,11,0,3,1,Low Flight Risk
+1674,49,Research & Development,Laboratory Technician,1,2587,Yes,1,16,16,2,2,4,Medium Flight Risk
+1675,38,Research & Development,Laboratory Technician,1,2440,No,2,2,22,3,3,2,Low Flight Risk
+1676,47,Sales,Manager,4,15972,No,2,2,14,1,3,2,Low Flight Risk
+1677,49,Research & Development,Manager,4,15379,No,3,1,14,0,3,0,Low Flight Risk
+1678,41,Sales,Sales Executive,3,7082,Yes,3,23,16,0,3,2,Low Flight Risk
+1680,20,Sales,Sales Representative,1,2728,No,1,9,11,0,3,3,Medium Flight Risk
+1681,33,Sales,Sales Executive,2,5368,Yes,4,16,25,1,3,2,Low Flight Risk
+1682,36,Research & Development,Healthcare Representative,2,5347,No,3,26,14,0,2,0,Low Flight Risk
+1683,44,Human Resources,Human Resources,1,3195,Yes,4,1,18,2,3,2,Low Flight Risk
+1687,38,Research & Development,Laboratory Technician,1,3306,No,3,4,19,0,2,0,Low Flight Risk
+1689,53,Research & Development,Healthcare Representative,3,7005,No,4,24,15,1,3,0,Low Flight Risk
+1693,26,Research & Development,Laboratory Technician,1,2570,No,4,7,20,5,3,2,Low Flight Risk
+1694,55,Research & Development,Research Scientist,1,3537,No,2,22,12,1,3,2,Low Flight Risk
+1696,34,Research & Development,Laboratory Technician,2,3986,No,4,5,14,4,4,2,Low Flight Risk
+1697,60,Research & Development,Healthcare Representative,3,10883,No,4,1,20,0,4,0,Low Flight Risk
+1698,33,Research & Development,Laboratory Technician,1,2028,No,2,21,18,2,3,2,Low Flight Risk
+1700,37,Sales,Sales Executive,2,9525,No,4,1,14,1,2,0,Low Flight Risk
+1701,34,Research & Development,Research Scientist,1,2929,No,4,19,12,8,3,2,Low Flight Risk
+1703,44,Research & Development,Healthcare Representative,3,7879,Yes,4,2,19,6,3,4,Medium Flight Risk
+1704,35,Research & Development,Research Scientist,1,4930,Yes,4,2,14,1,4,2,Low Flight Risk
+1706,43,Sales,Sales Executive,2,7847,Yes,4,2,17,8,3,4,Medium Flight Risk
+1707,24,Research & Development,Research Scientist,1,4401,No,3,9,16,0,3,0,Low Flight Risk
+1708,41,Sales,Sales Executive,3,9241,No,3,6,12,8,3,2,Low Flight Risk
+1709,29,Research & Development,Laboratory Technician,1,2974,No,3,9,17,1,3,0,Low Flight Risk
+1710,36,Sales,Sales Representative,2,4502,No,4,2,15,6,2,2,Low Flight Risk
+1712,45,Research & Development,Healthcare Representative,3,10748,No,3,1,23,14,2,2,Low Flight Risk
+1718,26,Research & Development,Laboratory Technician,1,2305,No,3,17,15,0,4,0,Low Flight Risk
+1719,45,Research & Development,Research Director,4,16704,No,2,28,11,8,3,5,Medium Flight Risk
+1720,32,Research & Development,Research Scientist,1,3433,No,3,10,13,1,2,0,Low Flight Risk
+1721,31,Research & Development,Laboratory Technician,1,3477,No,3,2,14,0,4,0,Low Flight Risk
+1722,41,Human Resources,Human Resources,2,6430,No,2,4,19,1,3,2,Low Flight Risk
+1724,40,Research & Development,Manufacturing Director,2,6516,Yes,1,8,16,0,3,4,Medium Flight Risk
+1725,24,Research & Development,Laboratory Technician,1,3907,No,1,29,13,1,4,2,Low Flight Risk
+1727,46,Research & Development,Healthcare Representative,2,5562,No,2,13,14,0,3,2,Low Flight Risk
+1728,35,Research & Development,Manufacturing Director,2,6883,No,3,27,16,0,3,0,Low Flight Risk
+1729,30,Research & Development,Research Scientist,1,2862,No,4,16,12,0,2,0,Low Flight Risk
+1731,47,Sales,Sales Executive,2,4978,No,2,2,11,0,1,5,Medium Flight Risk
+1732,46,Sales,Sales Executive,3,10368,Yes,4,2,12,0,2,2,Low Flight Risk
+1735,23,Research & Development,Laboratory Technician,1,3295,No,2,4,13,1,1,4,Medium Flight Risk
+1736,31,Research & Development,Manufacturing Director,2,5238,No,4,24,20,1,2,0,Low Flight Risk
+1737,39,Research & Development,Laboratory Technician,2,6472,Yes,4,1,15,5,3,4,Medium Flight Risk
+1739,32,Sales,Sales Executive,3,9610,No,3,19,13,0,1,2,Low Flight Risk
+1740,40,Sales,Manager,5,19833,No,2,7,14,12,2,4,Medium Flight Risk
+1744,45,Human Resources,Human Resources,3,9756,No,3,4,21,0,4,0,Low Flight Risk
+1745,30,Research & Development,Research Scientist,1,4968,No,1,2,16,0,3,2,Low Flight Risk
+1746,24,Human Resources,Human Resources,1,2145,No,4,10,14,2,3,0,Low Flight Risk
+1749,31,Sales,Sales Executive,2,8346,No,3,5,19,0,3,0,Low Flight Risk
+1751,27,Research & Development,Research Scientist,1,3445,No,4,8,11,1,2,1,Low Flight Risk
+1753,29,Research & Development,Healthcare Representative,2,6294,Yes,3,1,12,0,4,2,Low Flight Risk
+1754,30,Sales,Sales Executive,3,7140,No,1,15,11,1,3,3,Medium Flight Risk
+1755,34,Research & Development,Research Scientist,1,2932,Yes,4,2,14,1,3,2,Low Flight Risk
+1756,33,Sales,Sales Executive,2,5147,No,2,2,15,1,2,2,Low Flight Risk
+1757,49,Sales,Sales Executive,2,4507,No,4,11,12,0,4,0,Low Flight Risk
+1760,38,Research & Development,Laboratory Technician,1,2468,No,2,2,14,0,2,2,Low Flight Risk
+1762,29,Research & Development,Research Scientist,1,2109,No,1,4,13,0,3,2,Low Flight Risk
+1763,30,Research & Development,Healthcare Representative,2,5294,No,3,16,16,1,3,0,Low Flight Risk
+1764,32,Research & Development,Research Scientist,1,2718,No,2,5,14,0,3,2,Low Flight Risk
+1766,38,Research & Development,Healthcare Representative,2,5811,Yes,4,18,16,1,3,2,Low Flight Risk
+1768,42,Research & Development,Laboratory Technician,1,2766,No,2,12,22,0,2,2,Low Flight Risk
+1770,55,Research & Development,Research Director,5,19038,No,1,2,12,0,3,2,Low Flight Risk
+1771,33,Research & Development,Research Scientist,2,3055,No,2,4,15,1,2,2,Low Flight Risk
+1772,41,Research & Development,Laboratory Technician,1,2289,No,1,9,20,0,3,2,Low Flight Risk
+1774,34,Sales,Sales Executive,2,4001,Yes,3,10,14,0,3,2,Low Flight Risk
+1775,53,Research & Development,Manufacturing Director,4,12965,Yes,3,1,20,0,2,2,Low Flight Risk
+1778,43,Human Resources,Human Resources,1,3539,No,4,2,13,1,3,0,Low Flight Risk
+1779,34,Sales,Sales Executive,2,6029,No,4,3,12,2,3,0,Low Flight Risk
+1782,38,Research & Development,Laboratory Technician,1,3702,No,3,6,11,0,3,1,Low Flight Risk
+1784,31,Sales,Sales Executive,2,5468,No,4,29,14,5,3,2,Low Flight Risk
+1786,51,Research & Development,Manager,3,13116,No,3,3,11,2,3,1,Low Flight Risk
+1787,37,Sales,Sales Executive,2,4189,No,2,9,14,0,3,2,Low Flight Risk
+1789,46,Research & Development,Research Director,5,19328,Yes,4,2,17,2,3,2,Low Flight Risk
+1790,36,Research & Development,Healthcare Representative,3,8321,Yes,1,10,13,5,3,6,High Flight Risk
+1794,37,Human Resources,Human Resources,2,4071,No,2,8,13,4,2,4,Medium Flight Risk
+1798,33,Research & Development,Research Scientist,1,3143,No,1,8,19,7,3,4,Medium Flight Risk
+1799,28,Research & Development,Research Scientist,1,2044,No,4,1,11,0,4,1,Low Flight Risk
+1800,39,Research & Development,Research Director,3,13464,No,3,10,21,2,3,0,Low Flight Risk
+1801,46,Sales,Sales Executive,2,7991,No,2,26,15,2,3,2,Low Flight Risk
+1802,40,Research & Development,Laboratory Technician,1,3377,No,1,2,17,0,2,2,Low Flight Risk
+1803,42,Research & Development,Healthcare Representative,2,5538,No,1,13,18,0,2,2,Low Flight Risk
+1804,35,Research & Development,Manufacturing Director,2,5762,No,4,2,14,1,3,0,Low Flight Risk
+1805,38,Human Resources,Human Resources,1,2592,No,2,2,13,3,3,2,Low Flight Risk
+1812,39,Sales,Sales Executive,2,4127,No,4,20,18,2,3,0,Low Flight Risk
+1813,43,Research & Development,Research Scientist,1,2438,No,3,9,13,1,2,0,Low Flight Risk
+1814,41,Research & Development,Healthcare Representative,2,6870,No,2,5,12,1,1,4,Medium Flight Risk
+1815,41,Sales,Sales Executive,3,10447,Yes,3,4,13,13,4,4,Medium Flight Risk
+1816,30,Research & Development,Manufacturing Director,3,9667,No,3,10,14,0,3,0,Low Flight Risk
+1822,40,Research & Development,Healthcare Representative,2,6513,No,4,1,17,0,3,0,Low Flight Risk
+1823,34,Sales,Sales Executive,2,6799,No,3,8,21,4,3,2,Low Flight Risk
+1824,58,Sales,Manager,4,16291,No,2,2,22,14,2,4,Medium Flight Risk
+1826,35,Research & Development,Laboratory Technician,1,2705,No,3,23,16,0,4,0,Low Flight Risk
+1827,47,Research & Development,Manufacturing Director,3,10333,Yes,2,4,12,14,3,6,High Flight Risk
+1829,40,Research & Development,Healthcare Representative,2,4448,No,1,12,12,7,3,4,Medium Flight Risk
+1830,54,Research & Development,Research Scientist,2,6854,No,4,7,15,1,2,0,Low Flight Risk
+1833,31,Sales,Sales Executive,3,9637,No,1,7,14,2,3,2,Low Flight Risk
+1834,28,Research & Development,Research Scientist,1,3591,No,1,1,25,1,3,2,Low Flight Risk
+1835,38,Sales,Sales Representative,2,5405,Yes,4,2,20,0,2,2,Low Flight Risk
+1836,26,Sales,Sales Executive,2,4684,No,4,10,13,1,3,0,Low Flight Risk
+1837,58,Research & Development,Research Director,4,15787,Yes,3,15,14,2,3,2,Low Flight Risk
+1839,18,Research & Development,Research Scientist,1,1514,No,3,14,16,0,1,2,Low Flight Risk
+1845,45,Sales,Sales Executive,2,5154,No,3,2,22,5,4,2,Low Flight Risk
+1847,36,Research & Development,Research Scientist,2,6962,Yes,2,2,22,0,3,4,Medium Flight Risk
+1849,43,Sales,Sales Executive,2,5675,No,4,2,20,7,3,2,Low Flight Risk
+1850,27,Research & Development,Laboratory Technician,1,2379,Yes,4,5,14,0,2,2,Low Flight Risk
+1852,29,Research & Development,Laboratory Technician,1,3812,No,4,20,13,3,4,0,Low Flight Risk
+1853,32,Sales,Sales Executive,2,4648,No,4,10,13,0,4,0,Low Flight Risk
+1854,42,Research & Development,Research Scientist,1,2936,No,3,10,22,3,2,0,Low Flight Risk
+1856,47,Research & Development,Laboratory Technician,1,2105,No,3,9,12,2,3,0,Low Flight Risk
+1857,46,Research & Development,Manufacturing Director,3,8578,No,4,2,14,4,2,2,Low Flight Risk
+1858,28,Human Resources,Human Resources,1,2706,No,4,1,15,2,3,0,Low Flight Risk
+1859,29,Research & Development,Healthcare Representative,2,6384,No,3,29,17,1,3,0,Low Flight Risk
+1860,42,Research & Development,Laboratory Technician,1,3968,No,3,8,13,0,3,0,Low Flight Risk
+1863,46,Sales,Sales Executive,4,13225,No,1,3,12,2,3,2,Low Flight Risk
+1864,27,Sales,Sales Representative,2,3540,No,3,23,21,5,3,2,Low Flight Risk
+1865,29,Human Resources,Human Resources,1,2804,No,2,6,11,0,3,3,Medium Flight Risk
+1866,43,Research & Development,Manager,5,19392,No,3,6,13,6,3,2,Low Flight Risk
+1867,48,Research & Development,Research Director,5,19665,No,2,10,12,12,3,4,Medium Flight Risk
+1870,27,Research & Development,Research Scientist,1,4774,No,1,15,19,7,2,4,Medium Flight Risk
+1871,39,Research & Development,Research Scientist,2,3902,No,4,19,14,2,3,0,Low Flight Risk
+1873,55,Research & Development,Research Scientist,1,2662,No,4,2,20,0,4,0,Low Flight Risk
+1875,28,Sales,Sales Representative,1,2856,No,2,3,19,0,3,2,Low Flight Risk
+1880,36,Sales,Sales Executive,2,5673,Yes,3,10,13,1,3,2,Low Flight Risk
+1881,31,Research & Development,Laboratory Technician,2,4197,No,3,20,11,0,3,1,Low Flight Risk
+1882,34,Sales,Sales Executive,3,9713,Yes,4,4,13,1,3,2,Low Flight Risk
+1883,29,Research & Development,Laboratory Technician,1,2062,No,1,7,14,1,3,2,Low Flight Risk
+1885,37,Research & Development,Research Scientist,2,4284,Yes,1,7,22,0,3,4,Medium Flight Risk
+1886,35,Research & Development,Manufacturing Director,2,4788,Yes,2,16,11,0,3,5,Medium Flight Risk
+1888,45,Research & Development,Manufacturing Director,2,5906,No,4,25,13,3,2,0,Low Flight Risk
+1890,36,Human Resources,Human Resources,2,3886,No,4,2,21,0,2,0,Low Flight Risk
+1892,40,Research & Development,Manager,4,16823,No,1,1,11,11,3,5,Medium Flight Risk
+1893,26,Research & Development,Research Scientist,1,2933,Yes,3,1,13,1,2,2,Low Flight Risk
+1898,27,Sales,Sales Executive,2,6500,No,3,2,14,0,2,0,Low Flight Risk
+1900,48,Research & Development,Manager,4,17174,No,4,22,11,4,3,3,Medium Flight Risk
+1903,44,Research & Development,Healthcare Representative,2,5033,No,1,1,15,2,3,2,Low Flight Risk
+1908,36,Sales,Sales Executive,2,5507,No,2,17,16,1,1,4,Medium Flight Risk
+1909,41,Sales,Sales Executive,2,4393,No,2,8,21,1,3,2,Low Flight Risk
+1911,42,Research & Development,Research Director,3,13348,No,1,6,13,5,4,4,Medium Flight Risk
+1912,31,Sales,Sales Executive,2,6583,Yes,4,10,11,1,3,3,Medium Flight Risk
+1915,34,Sales,Sales Executive,2,8103,Yes,4,3,12,0,2,2,Low Flight Risk
+1916,31,Research & Development,Laboratory Technician,1,3978,No,3,4,12,2,2,0,Low Flight Risk
+1918,26,Research & Development,Laboratory Technician,1,2544,No,4,6,18,7,3,2,Low Flight Risk
+1922,45,Research & Development,Healthcare Representative,2,5399,No,3,1,12,0,3,0,Low Flight Risk
+1924,33,Sales,Sales Executive,2,5487,No,3,10,14,0,2,0,Low Flight Risk
+1927,28,Sales,Sales Executive,2,6834,Yes,4,1,12,0,3,2,Low Flight Risk
+1929,39,Sales,Sales Executive,2,5736,No,3,21,19,1,3,0,Low Flight Risk
+1931,27,Research & Development,Research Scientist,1,2226,No,2,2,11,1,2,3,Medium Flight Risk
+1932,34,Research & Development,Research Scientist,2,5747,Yes,4,22,15,6,3,4,Medium Flight Risk
+1934,47,Research & Development,Research Scientist,2,5467,No,2,14,18,1,4,2,Low Flight Risk
+1935,56,Sales,Sales Executive,2,5380,No,1,11,16,0,3,2,Low Flight Risk
+1936,39,Research & Development,Manufacturing Director,2,5151,No,1,9,25,7,3,4,Medium Flight Risk
+1937,38,Research & Development,Research Scientist,2,2133,Yes,2,8,16,0,3,4,Medium Flight Risk
+1938,58,Sales,Manager,4,17875,Yes,4,21,13,0,2,2,Low Flight Risk
+1940,38,Research & Development,Research Scientist,1,4771,No,4,9,19,0,4,0,Low Flight Risk
+1941,49,Research & Development,Research Director,5,19161,No,4,2,15,4,3,2,Low Flight Risk
+1943,42,Sales,Sales Executive,2,5087,Yes,4,12,12,0,3,2,Low Flight Risk
+1945,35,Sales,Sales Executive,2,5561,No,1,18,16,0,1,4,Medium Flight Risk
+1947,28,Research & Development,Research Scientist,1,2144,No,3,16,14,1,2,0,Low Flight Risk
+1948,31,Research & Development,Research Scientist,1,3065,Yes,1,3,13,2,4,4,Medium Flight Risk
+1949,36,Research & Development,Laboratory Technician,1,2810,No,2,9,22,0,3,2,Low Flight Risk
+1950,34,Sales,Sales Executive,3,9888,No,4,1,21,2,2,0,Low Flight Risk
+1951,34,Sales,Sales Executive,3,8628,No,3,13,18,1,2,0,Low Flight Risk
+1952,26,Research & Development,Laboratory Technician,1,2867,No,1,1,13,7,2,4,Medium Flight Risk
+1954,29,Research & Development,Healthcare Representative,2,5373,No,1,1,12,0,2,2,Low Flight Risk
+1955,32,Research & Development,Healthcare Representative,2,6667,No,4,15,18,1,3,0,Low Flight Risk
+1956,31,Research & Development,Research Scientist,2,5003,No,1,1,21,8,3,4,Medium Flight Risk
+1961,38,Sales,Sales Representative,1,2858,No,1,1,14,0,2,2,Low Flight Risk
+1962,35,Sales,Sales Executive,2,5204,Yes,4,7,11,0,3,3,Medium Flight Risk
+1965,27,Sales,Sales Executive,2,4105,No,4,9,14,0,3,0,Low Flight Risk
+1966,32,Research & Development,Manufacturing Director,2,9679,No,4,5,24,0,3,0,Low Flight Risk
+1969,54,Research & Development,Research Scientist,2,2897,No,3,9,11,2,2,1,Low Flight Risk
+1970,33,Research & Development,Healthcare Representative,2,5968,No,3,7,20,2,3,0,Low Flight Risk
+1971,43,Research & Development,Healthcare Representative,3,7510,No,3,11,17,0,3,0,Low Flight Risk
+1972,38,Human Resources,Human Resources,1,2991,Yes,2,1,11,1,3,5,Medium Flight Risk
+1973,55,Human Resources,Manager,5,19636,Yes,2,26,18,1,3,4,Medium Flight Risk
+1974,31,Research & Development,Laboratory Technician,1,1129,Yes,4,2,11,0,3,3,Medium Flight Risk
+1975,39,Sales,Sales Executive,4,13341,No,1,15,12,11,3,4,Medium Flight Risk
+1976,42,Research & Development,Research Scientist,2,4332,No,3,23,12,3,3,0,Low Flight Risk
+1979,31,Research & Development,Research Director,3,11031,No,3,10,20,4,4,2,Low Flight Risk
+1980,54,Research & Development,Manufacturing Director,2,4440,Yes,1,10,19,1,3,4,Medium Flight Risk
+1981,24,Research & Development,Healthcare Representative,2,4617,No,3,1,12,1,2,0,Low Flight Risk
+1982,23,Research & Development,Laboratory Technician,1,2647,No,4,12,13,1,4,0,Low Flight Risk
+1985,40,Research & Development,Laboratory Technician,2,6323,No,3,11,11,9,4,3,Medium Flight Risk
+1986,40,Sales,Sales Executive,2,5677,No,2,2,14,5,3,4,Medium Flight Risk
+1987,25,Human Resources,Human Resources,1,2187,No,2,2,14,1,3,2,Low Flight Risk
+1989,30,Research & Development,Laboratory Technician,1,3748,No,2,1,13,1,2,2,Low Flight Risk
+1992,25,Research & Development,Laboratory Technician,1,3977,Yes,3,2,19,0,2,2,Low Flight Risk
+1993,47,Research & Development,Healthcare Representative,3,8633,No,3,25,23,12,3,2,Low Flight Risk
+1994,33,Research & Development,Laboratory Technician,1,2008,No,3,1,12,0,2,0,Low Flight Risk
+1995,38,Sales,Sales Executive,2,4440,No,2,1,15,5,3,4,Medium Flight Risk
+1996,31,Sales,Sales Representative,1,3067,No,3,2,19,1,3,0,Low Flight Risk
+1997,38,Research & Development,Manufacturing Director,2,5321,No,3,6,11,7,3,3,Medium Flight Risk
+1998,42,Research & Development,Research Scientist,2,5410,Yes,1,18,17,1,2,4,Medium Flight Risk
+1999,41,Research & Development,Research Scientist,1,2782,No,4,1,22,1,3,0,Low Flight Risk
+2000,47,Research & Development,Research Director,3,11957,No,2,1,18,5,1,6,High Flight Risk
+2003,35,Research & Development,Laboratory Technician,1,2660,Yes,3,11,11,2,3,3,Medium Flight Risk
+2007,22,Research & Development,Research Scientist,1,3375,No,3,1,12,1,4,0,Low Flight Risk
+2008,35,Research & Development,Research Scientist,2,5098,No,3,9,19,0,3,0,Low Flight Risk
+2009,33,Research & Development,Healthcare Representative,2,4878,Yes,4,15,13,8,3,4,Medium Flight Risk
+2010,32,Research & Development,Laboratory Technician,1,2837,No,2,29,13,4,3,4,Medium Flight Risk
+2012,40,Research & Development,Laboratory Technician,1,2406,No,4,1,19,0,2,0,Low Flight Risk
+2013,32,Sales,Sales Representative,1,2269,No,2,1,14,2,3,2,Low Flight Risk
+2014,39,Research & Development,Research Scientist,2,4108,No,4,24,13,1,3,0,Low Flight Risk
+2015,38,Research & Development,Research Director,3,13206,No,3,10,12,1,3,0,Low Flight Risk
+2016,32,Sales,Sales Executive,3,10422,No,4,1,19,5,3,2,Low Flight Risk
+2017,37,Research & Development,Research Director,3,13744,Yes,4,10,25,6,3,4,Medium Flight Risk
+2018,25,Sales,Sales Executive,2,4907,Yes,3,8,22,0,2,2,Low Flight Risk
+2019,52,Sales,Sales Representative,1,3482,No,4,29,15,0,2,0,Low Flight Risk
+2020,44,Research & Development,Research Scientist,1,2436,Yes,4,1,12,1,3,2,Low Flight Risk
+2021,21,Sales,Sales Representative,1,2380,Yes,1,5,11,1,3,5,Medium Flight Risk
+2022,39,Research & Development,Manager,5,19431,No,4,9,13,1,2,0,Low Flight Risk
+2024,36,Sales,Sales Executive,3,7644,No,4,3,19,3,3,0,Low Flight Risk
+2025,36,Research & Development,Manufacturing Director,2,5131,No,2,4,13,0,3,2,Low Flight Risk
+2026,56,Research & Development,Healthcare Representative,2,6306,No,3,1,21,1,2,0,Low Flight Risk
+2031,42,Research & Development,Manager,5,18880,No,3,2,11,4,2,3,Medium Flight Risk
+2034,41,Research & Development,Manufacturing Director,4,13570,No,2,28,23,0,3,2,Low Flight Risk
+2035,34,Sales,Sales Executive,2,6712,No,3,28,21,1,3,0,Low Flight Risk
+2036,36,Sales,Sales Executive,2,5406,No,4,15,24,11,2,2,Low Flight Risk
+2037,41,Sales,Sales Executive,2,8938,No,2,3,11,0,3,3,Medium Flight Risk
+2038,32,Research & Development,Research Scientist,1,2439,No,1,2,14,1,3,2,Low Flight Risk
+2040,35,Human Resources,Human Resources,3,8837,Yes,4,26,16,1,3,2,Low Flight Risk
+2041,38,Sales,Sales Executive,2,5343,No,4,10,11,1,3,1,Low Flight Risk
+2045,36,Sales,Sales Executive,2,6652,No,4,11,13,0,2,0,Low Flight Risk
+2046,45,Sales,Sales Executive,2,4850,No,3,20,15,0,3,0,Low Flight Risk
+2048,40,Research & Development,Research Scientist,1,2809,No,3,2,14,2,3,0,Low Flight Risk
+2049,35,Research & Development,Healthcare Representative,2,5689,Yes,3,18,14,0,4,2,Low Flight Risk
+2051,40,Research & Development,Research Scientist,1,2001,No,3,2,14,0,3,0,Low Flight Risk
+2052,35,Research & Development,Research Scientist,1,2977,No,4,1,12,1,3,0,Low Flight Risk
+2053,29,Research & Development,Laboratory Technician,2,4025,Yes,2,13,13,0,3,4,Medium Flight Risk
+2054,29,Research & Development,Research Scientist,1,3785,No,1,28,14,0,1,4,Medium Flight Risk
+2056,39,Sales,Sales Executive,4,12031,No,4,24,11,9,2,3,Medium Flight Risk
+2057,31,Research & Development,Manufacturing Director,2,9936,No,1,5,19,1,3,2,Low Flight Risk
+2060,26,Sales,Sales Representative,1,2966,No,3,5,18,0,3,0,Low Flight Risk
+2061,36,Research & Development,Laboratory Technician,2,2571,No,4,23,17,0,3,0,Low Flight Risk
+2062,39,Research & Development,Healthcare Representative,3,9991,No,1,6,15,1,3,2,Low Flight Risk
+2064,27,Research & Development,Manufacturing Director,2,6142,Yes,2,4,20,0,3,4,Medium Flight Risk
+2065,49,Sales,Sales Executive,2,5390,No,2,2,14,0,2,2,Low Flight Risk
+2068,34,Research & Development,Laboratory Technician,2,4404,No,3,8,12,1,4,0,Low Flight Risk

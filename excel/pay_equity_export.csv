@@ -1,0 +1,19 @@
+"job_role","gender","total_employees","avg_monthly_income","avg_hike_pct","variance_from_role_avg"
+Research Director,Male,47,1665778.72,14.57,756.65
+Manager,Male,55,1740932.73,15.05,247.03
+Human Resources,Female,16,454068.75,14.63,220.23
+Sales Executive,Male,194,703312.37,14.72,134.41
+Manufacturing Director,Female,72,740916.67,15.35,113.25
+Research Scientist,Female,114,334447.37,15.37,85.71
+Healthcare Representative,Male,80,758930.00,15.70,77.75
+Sales Representative,Female,38,267194.74,15.58,42.37
+Laboratory Technician,Female,85,324690.59,14.82,7.25
+Laboratory Technician,Male,174,323241.38,15.16,-7.25
+Sales Representative,Male,45,258720.00,15.76,-42.37
+Healthcare Representative,Female,51,743380.39,15.06,-77.75
+Research Scientist,Male,178,317304.49,15.50,-85.71
+Manufacturing Director,Male,73,718267.12,15.84,-113.25
+Sales Executive,Female,132,676431.06,15.14,-134.41
+Human Resources,Male,36,410022.22,14.89,-220.23
+Manager,Female,47,1691527.66,15.23,-247.03
+Research Director,Female,33,1514448.48,15.48,-756.65
